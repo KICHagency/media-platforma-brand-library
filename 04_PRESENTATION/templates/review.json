@@ -29,5 +29,131 @@
     "accent_hierarchy_clear": null,
     "background_changes_justified": null,
     "issues": []
+  },
+  "art_direction_review": {
+    "rules_version": "1.2",
+    "checks": [
+      {
+        "rule_id": "AD01",
+        "criterion": "Обложка имеет сильный контекстный визуал, а не только текст.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD02",
+        "criterion": "Служебные подписи без смысла удалены; существенные факты сохранены.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD03",
+        "criterion": "После удаления элементов пересобраны поля; заголовки и контент согласованы по сетке.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD04",
+        "criterion": "Карточки, разделители и свободная верстка выбраны по смыслу, нет случайной разреженности.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD05",
+        "criterion": "Каждый обрез обоснован; объекты узнаваемы и не заслоняют важные детали.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD06",
+        "criterion": "Графика связана с композицией, не выглядит случайно поставленной.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD07",
+        "criterion": "Фото не содержит случайных обрезов фигуры; кадрирование осмысленно.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD08",
+        "criterion": "Скриншоты имеют согласованные скругления и масштаб, важные детали читаются.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD09",
+        "criterion": "Иконки используются выборочно и единообразно; не пересекаются с текстом.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD10",
+        "criterion": "Полный логотип не повторяется на обычных слайдах; постоянных сайта и счётчика страниц нет.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD11",
+        "criterion": "Подпись колонтитула соответствует текущему слайду и отделена от знака по колонкам.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD12",
+        "criterion": "Цвет колонтитула выбран от фона; он тихий, непрозрачный, читаемый в целевом размере.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD13",
+        "criterion": "Год с © — обычный текст без плашки или другого выделения.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD14",
+        "criterion": "Просмотрены миниатюры всей серии и отдельные итоговые слайды; проверены все три типа фона.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      },
+      {
+        "rule_id": "AD15",
+        "criterion": "Ключевой 3D создан под задачу по стилю библиотеки; фото и паттерны рассмотрены по смыслу.",
+        "status": "not_reviewed",
+        "slide_ids": [],
+        "evidence": null,
+        "not_applicable_reason": null
+      }
+    ],
+    "backgrounds_visually_checked": []
   }
 }

@@ -34,6 +34,24 @@
         "role": "base",
         "reason": null,
         "section_id": null
+      },
+      "art_direction": {
+        "top_margin_px": null,
+        "left_margin_px": null,
+        "layout_reason": null,
+        "hero_context": null,
+        "graphic_placement": "whole_or_cropped_or_behind_card",
+        "crop_reason": null,
+        "recognizable_details": [],
+        "footer": {
+          "context": null,
+          "color_hex": null,
+          "background_type": null,
+          "year": null,
+          "year_plain_text": true
+        },
+        "support_icons": [],
+        "screenshot_radius_px": null
       }
     }
   ],

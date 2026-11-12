@@ -2,7 +2,7 @@ from pathlib import Path
 import hashlib,json,zipfile
 root=Path(__file__).resolve().parents[1]
 m=json.loads((root/'repository-manifest.json').read_text())
-for row in m['source_files']:
+for row in m['source_files'] + m.get('maintained_files', []):
  p=root/row['path']; assert p.is_file(), row['path']
  assert hashlib.sha256(p.read_bytes()).hexdigest()==row['sha256'], row['path']
 for p in root.rglob('*.json'): json.loads(p.read_text())
@@ -11,4 +11,9 @@ for p in root.rglob('*.zip'):
 assert len(list((root/'01_3D-OBJECTS/assets').glob('*.png')))==30
 policy=json.loads((root/'04_PRESENTATION/rules/presentation_policy.json').read_text())
 assert policy['background_rhythm']['mechanical_color_rotation'] is False
+assert policy['version'] == '1.2'
+assert policy['art_direction']['footer']['year_capsule'] is False
+assert policy['art_direction']['footer']['single_universal_gray'] is False
+assert policy['art_direction']['icons']['allowed'] is True
 print('PASS: source files, hashes, JSON, ZIP, 30 assets and background rhythm policy')
+

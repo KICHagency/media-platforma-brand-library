@@ -598,28 +598,38 @@
     },
     {
       "path": "04_PRESENTATION/AGENTS.md",
-      "bytes": 4417,
-      "sha256": "0b3a7b55dba54a8b7517deceefaab7b941a2f8b629a8e66a0242e3a115645713"
+      "bytes": 5218,
+      "sha256": "8811f0895e7bd86924f4d7aef74703258cf585c28529b390879540c8f8c69abd",
+      "archive_sha256": "0b3a7b55dba54a8b7517deceefaab7b941a2f8b629a8e66a0242e3a115645713",
+      "archive_bytes": 4417
     },
     {
       "path": "04_PRESENTATION/CHANGELOG.md",
-      "bytes": 1145,
-      "sha256": "bc445d41e7bf2ffc2ec76372c78bd7551c43be63a87fb44ce1946d844ccec688"
+      "bytes": 2044,
+      "sha256": "8612e676f458470370909d65a84e261d6597fd2c38da3015d4dd5169da4496b3",
+      "archive_sha256": "bc445d41e7bf2ffc2ec76372c78bd7551c43be63a87fb44ce1946d844ccec688",
+      "archive_bytes": 1145
     },
     {
       "path": "04_PRESENTATION/LINKS.md",
-      "bytes": 1164,
-      "sha256": "b634bb20b58cd6b01cd2a49ab9af9396e0a4a821b8c26217b4b9b32d0ca8841f"
+      "bytes": 1637,
+      "sha256": "7d94a38a5294b061a2ed080a677ac94a06c4c525ee62cdab7a235a1b37a33dd1",
+      "archive_sha256": "b634bb20b58cd6b01cd2a49ab9af9396e0a4a821b8c26217b4b9b32d0ca8841f",
+      "archive_bytes": 1164
     },
     {
       "path": "04_PRESENTATION/PRESENTATIONS_KNOWLEDGE_BASE.md",
-      "bytes": 125751,
-      "sha256": "162469069ebb3c3f101c584ac9cefc5f0ba86924c47670e28d3c6bd930407190"
+      "bytes": 151636,
+      "sha256": "582fab3cf7e4cea45a69be38c23234b24a08738017d594d87406e20606d2f229",
+      "archive_sha256": "162469069ebb3c3f101c584ac9cefc5f0ba86924c47670e28d3c6bd930407190",
+      "archive_bytes": 125751
     },
     {
       "path": "04_PRESENTATION/README.md",
-      "bytes": 3626,
-      "sha256": "168bf979c14fec0f11e90ed862850cc286b07ecf345b04411318954410df563a"
+      "bytes": 4427,
+      "sha256": "0d563e11ff0f44eeba8306e131f94f8e0886aa0c1b4769ebed946776fe71e375",
+      "archive_sha256": "168bf979c14fec0f11e90ed862850cc286b07ecf345b04411318954410df563a",
+      "archive_bytes": 3626
     },
     {
       "path": "04_PRESENTATION/brand-core/AGENTS.md",
@@ -803,8 +813,10 @@
     },
     {
       "path": "04_PRESENTATION/docs/02_LAYOUTS.md",
-      "bytes": 9547,
-      "sha256": "36b9beb27c8bc7a247e1dd64d46c03ba0bdf81054d9036ef3f85910be75122c3"
+      "bytes": 10561,
+      "sha256": "22c2ce588a06471bf604e1fcffec697bcc75694cb7a055c8ae601f688f6fecfd",
+      "archive_sha256": "36b9beb27c8bc7a247e1dd64d46c03ba0bdf81054d9036ef3f85910be75122c3",
+      "archive_bytes": 9547
     },
     {
       "path": "04_PRESENTATION/docs/03_CHARTS.md",
@@ -813,28 +825,38 @@
     },
     {
       "path": "04_PRESENTATION/docs/04_ASSETS.md",
-      "bytes": 5942,
-      "sha256": "a5d1d9b9eae48bf5f34087d82791ecbeb81db120bb5fdabdbce7e4eaf245ff2b"
+      "bytes": 7279,
+      "sha256": "2063f107f593c0c72c4271be7611027d7133452c453112c99bfa9f32ac9099e1",
+      "archive_sha256": "a5d1d9b9eae48bf5f34087d82791ecbeb81db120bb5fdabdbce7e4eaf245ff2b",
+      "archive_bytes": 5942
     },
     {
       "path": "04_PRESENTATION/docs/05_REVIEW.md",
-      "bytes": 5265,
-      "sha256": "061f5fab9fffe64a3d36c8f3525ac235892605ddf0c6d0b93465b2ce612fdcac"
+      "bytes": 8098,
+      "sha256": "82ca7ffdd96b0c27c59e79c839c794f9efbfe705f809224ba724bab1a1d104f3",
+      "archive_sha256": "061f5fab9fffe64a3d36c8f3525ac235892605ddf0c6d0b93465b2ce612fdcac",
+      "archive_bytes": 5265
     },
     {
       "path": "04_PRESENTATION/docs/06_QA.md",
-      "bytes": 9360,
-      "sha256": "659331f05e1dc13f5598fdfce71d9eb78171f38aaabdeeea0e25a725a13fe0fe"
+      "bytes": 11908,
+      "sha256": "78d6450a60f69aa0e4ce888316a7e493c41aeabf00ec0a2f4e3b0a479953d24c",
+      "archive_sha256": "659331f05e1dc13f5598fdfce71d9eb78171f38aaabdeeea0e25a725a13fe0fe",
+      "archive_bytes": 9360
     },
     {
       "path": "04_PRESENTATION/docs/07_REFERENCE_AUDIT.md",
-      "bytes": 10778,
-      "sha256": "3e9ac5f3789f6cc8b934e5a9215437dd66af5e750dabf5fd4b0f4cc3616894df"
+      "bytes": 11474,
+      "sha256": "216fdefdad842bb3d9b548ea78bca0bf96fa3c1b8c1cb954cd1636963777d9a7",
+      "archive_sha256": "3e9ac5f3789f6cc8b934e5a9215437dd66af5e750dabf5fd4b0f4cc3616894df",
+      "archive_bytes": 10778
     },
     {
       "path": "04_PRESENTATION/rules/presentation_policy.json",
-      "bytes": 2349,
-      "sha256": "6477bba8881a521a15020575211e3f53cdbd99142f5170bd14be2a50192259b0"
+      "bytes": 4672,
+      "sha256": "d8a0c980faebe01c6990151e62d39a0b5a9cac26a983c304620ac29951f33c25",
+      "archive_sha256": "6477bba8881a521a15020575211e3f53cdbd99142f5170bd14be2a50192259b0",
+      "archive_bytes": 2349
     },
     {
       "path": "04_PRESENTATION/rules/references.json",
@@ -843,8 +865,10 @@
     },
     {
       "path": "04_PRESENTATION/templates/BRIEF.md",
-      "bytes": 1492,
-      "sha256": "a6fd2c5318ecd5bad3e7761329b610b646a4fec02630adc6ba95c0e158b4080f"
+      "bytes": 2272,
+      "sha256": "1f0c69ba5e6264534a5678eb7b73ae32112cdf9c8a083ef7a37725c06f6e96d8",
+      "archive_sha256": "a6fd2c5318ecd5bad3e7761329b610b646a4fec02630adc6ba95c0e158b4080f",
+      "archive_bytes": 1492
     },
     {
       "path": "04_PRESENTATION/templates/asset_record.json",
@@ -853,14 +877,46 @@
     },
     {
       "path": "04_PRESENTATION/templates/review.json",
-      "bytes": 705,
-      "sha256": "4e3861df05f47293921dd6aa31ddab06a46d5a959d22ddf28982347fbc17253d"
+      "bytes": 5817,
+      "sha256": "4e7d1d2f1248a12eeb9f86c886ce36283f5ae34905ff24bea6cfecbf55feb797",
+      "archive_sha256": "4e3861df05f47293921dd6aa31ddab06a46d5a959d22ddf28982347fbc17253d",
+      "archive_bytes": 705
     },
     {
       "path": "04_PRESENTATION/templates/slide_plan.json",
-      "bytes": 1388,
-      "sha256": "74df5399d8d09161a70b91c77229cb19316ad1d1823b3a0eda8cc6cff5178dde"
+      "bytes": 1921,
+      "sha256": "061bea89d1c550a8eaf8fda66d523a53184af97c109c5aeace889e0e45766cfc",
+      "archive_sha256": "74df5399d8d09161a70b91c77229cb19316ad1d1823b3a0eda8cc6cff5178dde",
+      "archive_bytes": 1388
     }
   ],
-  "excluded": "macOS metadata only"
+  "excluded": "macOS metadata only",
+  "maintained_files": [
+    {
+      "path": "04_PRESENTATION/docs/08_ART_DIRECTION.md",
+      "bytes": 15349,
+      "sha256": "c2b6d809fbb11580807c1dc01e1e4889c91f39372cc39a4676fafc1293c67f58"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4738,
+      "sha256": "c8165957b3f5e6346187924ed34970d37e6638e9720c80fe08eb3215e4afd4fd"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4969,
+      "sha256": "88fe2aee7822b39cde9b0705ba1a564272663824d7ea58abf00d302740821f25"
+    },
+    {
+      "path": "TESTING.md",
+      "bytes": 4312,
+      "sha256": "0498ab4cb25645ac2a3ab427f16d341fdf76ec16ed736a9921098e4d1af556e1"
+    },
+    {
+      "path": "scripts/validate_library.py",
+      "bytes": 1049,
+      "sha256": "87a0fe547141f77b99248a63108efdfbc90a7243a0929172e21cafb44840f1a7"
+    }
+  ],
+  "maintenance_note": "Current file hashes; archive_sha256/archive_bytes preserve original archive provenance for amended source files. maintained_files records additions and changed repository-level documentation."
 }

@@ -10,3 +10,10 @@
 - [Assets Graphics](https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-1055)
 
 Поштучные ссылки на все 27 слайдов: docs/07_REFERENCE_AUDIT.md и rules/references.json. Остальные канонические ассеты: brand-core/registry и brand-core/LINKS.md.
+
+## Согласованный арт-дирекшн v1.2
+
+- [Правила и решения](docs/08_ART_DIRECTION.md)
+- [Пример применения: пятая итерация «О нас»](https://www.figma.com/design/NKZYajGLNTfIjRiSkmjkwk/Тест?node-id=25-730)
+
+Макет служит визуальным примером; цифры и юридические формулировки не являются фактами для новых задач.

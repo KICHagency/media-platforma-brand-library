@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "brand": "Media Platforma",
   "default_viewing_mode": "live",
   "hard_rules": {
@@ -85,5 +85,93 @@
     "fixed_color_quota": null,
     "per_slide_background_role_and_reason_required": true,
     "whole_deck_thumbnail_review_required": true
+  },
+  "art_direction": {
+    "authority": "USER",
+    "approved_date": "2026-11-12",
+    "source": "docs/08_ART_DIRECTION.md",
+    "cover": {
+      "strong_contextual_visual_required": true,
+      "text_only": false,
+      "context_generated_key_3d_required": true
+    },
+    "layout": {
+      "reference_canvas_px": [
+        1920,
+        1080
+      ],
+      "content_margin_start_px": {
+        "top": 80,
+        "left": 80
+      },
+      "margin_scope": "starting_point_for_reference_format_not_global_token",
+      "reflow_after_header_removal": true,
+      "cards_and_dividers": "select_by_content",
+      "uniform_card_grid_required": false
+    },
+    "footer": {
+      "persistent_website": false,
+      "page_counter": false,
+      "full_logo": "cover_and_optional_section_dividers",
+      "content_slide_elements": [
+        "canonical_symbol",
+        "slide_specific_context",
+        "copyright_year"
+      ],
+      "context_column_options": [
+        3,
+        4
+      ],
+      "year": "current_year_plain_text",
+      "year_capsule": false,
+      "opacity": 1,
+      "single_universal_gray": false,
+      "starting_colors_by_background": {
+        "white": "#ADADAD",
+        "almost_black": "#555555",
+        "brand_lime": "#5B9F00"
+      },
+      "color_scope": "presentation_footer_only",
+      "visual_review_each_background_required": true
+    },
+    "graphics": {
+      "crop": "per_slide_decision_preserve_recognizability",
+      "crop_all_slides": false,
+      "overlap_cards_allowed": true,
+      "preserve_readability": true,
+      "accidental_human_crop": false,
+      "screenshots_rounded": true,
+      "screenshots_radius": "consistent_per_deck_not_global_token",
+      "photo_and_patterns": "consider_by_content_not_quota"
+    },
+    "icons": {
+      "allowed": true,
+      "role": "selective_card_support",
+      "styles": [
+        "line",
+        "filled"
+      ],
+      "consistent_within_group": true,
+      "preferred_position": "top_right_with_reserved_space",
+      "verified_source_required": true,
+      "reuse_negative_assets": false
+    },
+    "checklist_ids": [
+      "AD01",
+      "AD02",
+      "AD03",
+      "AD04",
+      "AD05",
+      "AD06",
+      "AD07",
+      "AD08",
+      "AD09",
+      "AD10",
+      "AD11",
+      "AD12",
+      "AD13",
+      "AD14",
+      "AD15"
+    ]
   }
 }
