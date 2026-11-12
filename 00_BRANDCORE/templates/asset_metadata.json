@@ -1,0 +1,18 @@
+{
+  "asset_id": "replace-with-unique-id",
+  "label": "Заполнить",
+  "type": "metal_3d",
+  "role": "primary_graphic",
+  "selection": "default",
+  "layer": "foreground",
+  "topic": [],
+  "figma_url": null,
+  "local_file": null,
+  "export_status": "not_included",
+  "master_background": "transparent_required",
+  "camera": null,
+  "prompt_file": "prompts/metal_3d.source.v2.json",
+  "reference_asset_id": "metal-original-cone",
+  "review_status": "not_checked",
+  "review_notes": []
+}

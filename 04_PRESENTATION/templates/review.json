@@ -1,0 +1,33 @@
+{
+  "template_only": true,
+  "status": "not_reviewed",
+  "facts_checked": false,
+  "all_facts_routed": false,
+  "renders_viewed": false,
+  "render_paths": [],
+  "asset_provenance_checked": false,
+  "findings": [
+    {
+      "slide_id": null,
+      "rule_id": null,
+      "severity": null,
+      "observation": null,
+      "fix": null,
+      "status": "open"
+    }
+  ],
+  "density_exceptions": [],
+  "limitations": [],
+  "allowed_statuses": [
+    "not_reviewed",
+    "needs_revision",
+    "visual_review_pending",
+    "pass"
+  ],
+  "background_rhythm_review": {
+    "whole_deck_thumbnails_viewed": false,
+    "accent_hierarchy_clear": null,
+    "background_changes_justified": null,
+    "issues": []
+  }
+}

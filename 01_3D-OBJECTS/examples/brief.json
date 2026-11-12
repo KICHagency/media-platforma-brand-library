@@ -1,0 +1,20 @@
+{
+  "subject": "Single aluminium bell with a coherent clapper and small rounded bevels",
+  "purpose": "Notification illustration",
+  "camera": {
+    "preset": "low-angle",
+    "description": "Slightly below, turned left; opening remains readable",
+    "yaw_deg": -20,
+    "pitch_deg": -15,
+    "roll_deg": 10
+  },
+  "lighting_direction": "Aim lime softbox at front-left visible surface; white softbox from opposite side",
+  "aspect_ratio": "1:1",
+  "output": "one transparent PNG RGBA",
+  "style_prompt": "metal3d-prompt.json",
+  "negative_prompt_file": "metal3d-negative.json",
+  "references": [
+    "references/original-cone.png"
+  ],
+  "note": "Example brief for a new object, not a record of an existing generation"
+}

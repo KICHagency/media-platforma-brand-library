@@ -1,0 +1,41 @@
+{
+  "version": "2.0",
+  "brand": "Media Platforma",
+  "subject": "Single solid checkmark, believable thickness",
+  "reference": "references/original-cone.png",
+  "material": {
+    "base": "Satin silver aluminium",
+    "finish": "Fine directional brushing; silver dominant",
+    "edges": "Small smooth rounded bevels; coherent construction"
+  },
+  "camera": {
+    "preset": "near-frontal",
+    "yaw_deg": -10,
+    "pitch_deg": 5,
+    "roll_deg": -15,
+    "alternatives": [
+      "high-angle",
+      "low-angle",
+      "left-profile",
+      "right-profile",
+      "reverse-three-quarter"
+    ],
+    "rule": "Choose for silhouette; vary across library"
+  },
+  "lighting": {
+    "key": "Broad white softbox revealing satin grain",
+    "accent_color": "#8BF500",
+    "accent": "Broad lime reflection on visible front surface",
+    "coverage_target": "20–35% of visible object; art-direction target",
+    "direction": "Adjust softbox to camera; never hide on back",
+    "avoid": "Emission, green paint, thin rim-only light"
+  },
+  "output": {
+    "format": "PNG",
+    "transparent_background": true,
+    "alpha": "True RGBA; no backdrop or floor",
+    "framing": "One whole object, 8% clear margin"
+  },
+  "negative_prompt": "Opaque background, checkerboard, floor, halo, plastic, liquid chrome, coarse scratches, inflated bevels, impossible joints, weak green reflection, text, logos, cropped object",
+  "provider_policy": "Use ChatGPT image generation. Figma AI requires explicit permission."
+}

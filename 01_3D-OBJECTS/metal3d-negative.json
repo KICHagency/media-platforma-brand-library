@@ -1,0 +1,44 @@
+{
+  "version": "2.0",
+  "negative_prompt": "Opaque background, checkerboard, floor, halo, plastic, liquid chrome, coarse scratches, inflated bevels, impossible joints, weak green reflection, text, logos, cropped object",
+  "categories": {
+    "background": [
+      "black or white baked background",
+      "gradient backdrop",
+      "checkerboard drawn into image",
+      "floor or shadow rectangle",
+      "glow outside silhouette"
+    ],
+    "material": [
+      "plastic",
+      "rubber",
+      "liquid or mirror chrome",
+      "rough industrial steel",
+      "coarse grain",
+      "corrosion"
+    ],
+    "geometry": [
+      "inflated toy forms",
+      "oversized bevels",
+      "razor-sharp edges",
+      "impossible joints",
+      "melted geometry"
+    ],
+    "lighting": [
+      "green paint or emission",
+      "hidden backlight",
+      "thin green rim only",
+      "weak or absent lime reflection",
+      "blown-out highlights"
+    ],
+    "composition": [
+      "identical three-quarter camera for every asset",
+      "cropped silhouette",
+      "extra objects",
+      "text",
+      "numbers",
+      "logos",
+      "watermarks"
+    ]
+  }
+}

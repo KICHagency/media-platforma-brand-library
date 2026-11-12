@@ -1,0 +1,56 @@
+{
+  "template_only": true,
+  "viewing_mode": "live",
+  "assumptions": [],
+  "source_facts": [
+    {
+      "id": "F001",
+      "statement": "Заполнить подтверждённым фактом",
+      "source": "Указать документ и место",
+      "value": null,
+      "unit": null,
+      "period": null,
+      "status": "unverified"
+    }
+  ],
+  "slides": [
+    {
+      "id": "S01",
+      "question": "На какой вопрос отвечает слайд?",
+      "conclusion": "Заполнить после проверки фактов",
+      "fact_ids": [
+        "F001"
+      ],
+      "archetype": "claim_and_evidence",
+      "primary_evidence": "Указать доказательство",
+      "visible_context": [],
+      "notes": [],
+      "appendix_refs": [],
+      "assets": [],
+      "estimated_word_count": null,
+      "density_exception_reason": null,
+      "background": {
+        "token": null,
+        "role": "base",
+        "reason": null,
+        "section_id": null
+      }
+    }
+  ],
+  "fact_routes": [
+    {
+      "fact_id": "F001",
+      "destination": "main_slide",
+      "target_id": "S01",
+      "reason": "Основное доказательство"
+    }
+  ],
+  "allowed_destinations": [
+    "main_slide",
+    "speaker_notes",
+    "appendix",
+    "duplicate",
+    "needs_clarification"
+  ],
+  "unresolved_questions": []
+}

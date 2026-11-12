@@ -1,0 +1,252 @@
+{
+  "file_key": "tmqVQnutHWMAoEWBCmvm67",
+  "page_node": "2166:1205",
+  "positive_section": "2166:5670",
+  "negative_section": "2166:5671",
+  "reviewed_on": "2026-11-12",
+  "references": [
+    {
+      "node_id": "2166:4218",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4218",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Реальные скриншоты связывают этапы с доказательствами.",
+      "action": "Сохранить короткие этапы; мелкий интерфейс не должен нести обязательный для чтения текст."
+    },
+    {
+      "node_id": "2166:4264",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4264",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Один Metal 3D, крупный тезис, три цветовых блока.",
+      "action": "Уменьшать объём вводного абзаца, не кегль."
+    },
+    {
+      "node_id": "2166:4278",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4278",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Крупный суммарный результат, реальные публикации, ясная повторяемая структура.",
+      "action": "Для выступления вторичные метрики вынести на отдельный слайд."
+    },
+    {
+      "node_id": "2166:4322",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4322",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Ранжированные полосы и отдельный крупный итог задают иерархию.",
+      "action": "12 строк, цитаты и несколько метрик слишком плотны для типового экранного слайда; разделить."
+    },
+    {
+      "node_id": "2166:4435",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4435",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Лаймовая обложка, очень крупный заголовок и свободная нижняя часть.",
+      "action": "Брать фон из утверждённой библиотеки, не генерировать похожий шум."
+    },
+    {
+      "node_id": "2166:4442",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4442",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Светлая обложка сохраняет тот же масштаб и тихий паттерн.",
+      "action": "Не заполнять свободное поле дополнительным декором."
+    },
+    {
+      "node_id": "2166:4461",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4461",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Один график с выделенным периодом, отдельное сравнение и рекомендация.",
+      "action": "Проредить второстепенные подписи для экрана; сохранить единицы и период."
+    },
+    {
+      "node_id": "2166:4578",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4578",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Строки решения выделены внутри таблицы; вывод вынесен отдельно.",
+      "action": "Пять колонок — частный пример, не обязательный шаблон."
+    },
+    {
+      "node_id": "2166:4747",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4747",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Решение сформулировано в заголовке; главный ресурс крупнее условий.",
+      "action": "При росте объёма разделить ресурс и условия запуска."
+    },
+    {
+      "node_id": "2166:4848",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4848",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Два числовых доказательства, действие и крупный металлический объект.",
+      "action": "Графику получать из канонической библиотеки; не переносить чёрную подложку как часть прозрачного мастера."
+    },
+    {
+      "node_id": "2166:5543",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-5543",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Два направления собраны в две большие области с разными уровнями текста.",
+      "action": "Плашки и служебные подписи не должны накапливаться при адаптации."
+    },
+    {
+      "node_id": "2166:5593",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-5593",
+      "classification": "good",
+      "use_as_style_reference": true,
+      "asset_reuse": "requires_canonical_provenance",
+      "observation": "Три крупных числа работают без дополнительных иконок.",
+      "action": "Сохранять ясные подписи и достаточное пространство."
+    },
+    {
+      "node_id": "2166:1322",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-1322",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Плоские условные документ и экран подменяют фирменную графику.",
+      "action": "Заменить каноническим Metal 3D либо оставить типографическое сравнение."
+    },
+    {
+      "node_id": "2166:1444",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-1444",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Много цветных логотипов в равносильных контейнерах образуют каталог без приоритета.",
+      "action": "Сформулировать критерий выбора; оставить релевантные площадки. Логотипы площадок сами по себе не запрещены."
+    },
+    {
+      "node_id": "2166:1588",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-1588",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Четыре одинаковые карточки с плоскими иконками и стрелками.",
+      "action": "Сократить декор, показать этапы типографикой и реальными доказательствами."
+    },
+    {
+      "node_id": "2166:1866",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-1866",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Документ, щит, диалог и карта из чуждого плоского набора.",
+      "action": "Не переиспользовать набор; выбрать фирменную графику только там, где нужна."
+    },
+    {
+      "node_id": "2166:2099",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2099",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Процесс повторяет шаблон карточка–иконка–стрелка.",
+      "action": "Выстроить процесс по смыслу, а не клонированием декоративных блоков."
+    },
+    {
+      "node_id": "2166:2249",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2249",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Разнородные плашки критериев и крупный плоский щит дробят внимание.",
+      "action": "Выделить один вывод и отделить критерии отбора от размера базы."
+    },
+    {
+      "node_id": "2166:2469",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2469",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Условные иконки и вложенные карточки усложняют схему отчётности.",
+      "action": "Показать реальную структуру отчёта или простую схему с одним уровнем чтения."
+    },
+    {
+      "node_id": "2166:2602",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2602",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Крупный декоративный блок документов и щита конкурирует с доводами.",
+      "action": "Оставить проверяемые доводы; иллюстрацию заменить или убрать."
+    },
+    {
+      "node_id": "2166:2718",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2718",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Четыре равносильные карточки, плоские иконки и мелкие цитаты.",
+      "action": "Разделить механику и существенные условия; не скрывать ограничения мелким текстом."
+    },
+    {
+      "node_id": "2166:2861",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2861",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Условный экран занимает место доказательства; справа три конкурирующих показателя.",
+      "action": "Показать подтверждённый результат и один связанный контекст, без декоративного экрана."
+    },
+    {
+      "node_id": "2166:2996",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-2996",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Два небольших графика и три крупных показателя отвечают на разные вопросы.",
+      "action": "Разделить продажи и поисковую видимость; выделить один вывод на слайде."
+    },
+    {
+      "node_id": "2166:3183",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-3183",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Продажи и позиции в поиске с несколькими рядами сжаты в одну панель.",
+      "action": "Развести динамику продаж и изменение позиций; увеличить подписи."
+    },
+    {
+      "node_id": "2166:3371",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-3371",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "График насыщен числами над точками и двумя уровнями дат/показателей под осью.",
+      "action": "Оставить главную динамику, детали дней видимости вынести отдельно; не терять смысл пропуска."
+    },
+    {
+      "node_id": "2166:3736",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-3736",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Видео, три разноцветных графика и три результата конкурируют за внимание.",
+      "action": "Разделить контент и поиск; один основной график на каждый вывод."
+    },
+    {
+      "node_id": "2166:4004",
+      "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-4004",
+      "classification": "bad",
+      "use_as_style_reference": false,
+      "asset_reuse": "forbidden_including_descendants",
+      "observation": "Финальный призыв повторяет четыре карточки с чуждыми иконками.",
+      "action": "Сфокусировать финал на следующем действии; процесс вынести раньше."
+    }
+  ]
+}

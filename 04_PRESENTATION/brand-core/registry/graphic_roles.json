@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "authority": "User direction 2026-11-12; operational tags",
+  "types": {
+    "metal_3d": {
+      "role": "primary_graphic",
+      "selection": "default",
+      "layer": "foreground",
+      "intent": [
+        "explain_service",
+        "product",
+        "business",
+        "advertising",
+        "ugc_tools",
+        "data_metaphor"
+      ],
+      "background": "transparent",
+      "prompt": "prompts/metal_3d.source.v2.json",
+      "forbidden": [
+        "ascii_material",
+        "plastic",
+        "opaque_backdrop",
+        "weak_lime_reflection"
+      ]
+    },
+    "photo": {
+      "role": "human_presence",
+      "selection": "when_people_or_emotion_are_needed",
+      "layer": "foreground_or_scene",
+      "intent": [
+        "people",
+        "emotion",
+        "human_experience",
+        "smm",
+        "section_break"
+      ],
+      "background": "scene_or_transparent_cutout",
+      "prompt": "prompts/photo.source.v1.json",
+      "forbidden": [
+        "wax_skin",
+        "green_global_filter",
+        "artificial_hair",
+        "anatomy_errors"
+      ]
+    },
+    "ascii": {
+      "role": "background_support",
+      "selection": "background_only",
+      "layer": "background",
+      "intent": [
+        "quiet_digital_texture",
+        "secondary_subject"
+      ],
+      "background": "dark_or_white_opaque",
+      "prompt": [
+        "prompts/ascii_dark.source.v1.json",
+        "prompts/ascii_light.source.v1.json"
+      ],
+      "forbidden": [
+        "hero_role",
+        "green",
+        "metal",
+        "glow",
+        "dust_instead_of_glyphs"
+      ]
+    },
+    "diy": {
+      "role": "accent_background_fill",
+      "selection": "high_emphasis_title_or_key_screen",
+      "layer": "background",
+      "intent": [
+        "cover",
+        "key_message",
+        "section_break"
+      ],
+      "background": "lime_white_almost_black",
+      "prompt": null,
+      "forbidden": [
+        "competing_contrast",
+        "random_particles",
+        "ascii_object",
+        "decorative_overload"
+      ]
+    },
+    "logo": {
+      "role": "brand_identifier",
+      "selection": "according_to_composition_and_context",
+      "layer": "identity",
+      "intent": [
+        "brand_identification",
+        "co_branding"
+      ],
+      "background": "choose_variant_for_contrast",
+      "prompt": null,
+      "forbidden": [
+        "ai_generation",
+        "redraw",
+        "distortion",
+        "changed_spacing"
+      ]
+    }
+  }
+}

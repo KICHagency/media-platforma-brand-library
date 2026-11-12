@@ -1,0 +1,101 @@
+{
+  "version": "1.0",
+  "format": "Project JSON; not a claim of DTCG compliance or published Figma variables",
+  "primitive": {
+    "lime": {
+      "value": "#8BF500",
+      "type": "color",
+      "source_id": "COLOR"
+    },
+    "almost_black": {
+      "value": "#131313",
+      "type": "color",
+      "source_id": "COLOR"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color",
+      "source_id": "COLOR"
+    },
+    "olive": {
+      "value": "#DBF5BA",
+      "type": "color",
+      "source_id": "COLOR"
+    },
+    "coral_200": {
+      "value": "#FFADB4",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "coral": {
+      "value": "#D63241",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "coral_800": {
+      "value": "#62141C",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "amber_200": {
+      "value": "#FFEAC2",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "amber": {
+      "value": "#D99A29",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "amber_800": {
+      "value": "#634610",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "blue_200": {
+      "value": "#ADC5FF",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "blue": {
+      "value": "#3265E2",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    },
+    "blue_800": {
+      "value": "#172C61",
+      "type": "color",
+      "source_id": "COLOR_EXT"
+    }
+  },
+  "semantic": {
+    "background_light": {
+      "ref": "white"
+    },
+    "background_dark": {
+      "ref": "almost_black"
+    },
+    "background_soft": {
+      "ref": "olive"
+    },
+    "brand_accent": {
+      "ref": "lime"
+    },
+    "text_on_light": {
+      "ref": "almost_black"
+    },
+    "text_on_dark": {
+      "ref": "white"
+    },
+    "text_on_lime": {
+      "ref": "almost_black"
+    },
+    "metal_light_reference": {
+      "ref": "lime"
+    },
+    "photo_light_reference": {
+      "ref": "lime"
+    }
+  },
+  "semantic_status": "Operational mapping proposed in this documentation. Primitive HEX values are source facts. Light references are not flat pixel colors on objects."
+}

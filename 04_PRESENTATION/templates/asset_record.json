@@ -1,0 +1,20 @@
+{
+  "asset_id": null,
+  "family": null,
+  "role": null,
+  "source_url": null,
+  "node_id": null,
+  "local_source_path": null,
+  "ancestor_ids": [],
+  "negative_source_check": "not_checked",
+  "status": "unverified",
+  "intended_use": null,
+  "visual_review": null,
+  "allowed_statuses": [
+    "canonical_verified",
+    "generated_reviewed",
+    "evidence_verified",
+    "unverified",
+    "rejected"
+  ]
+}

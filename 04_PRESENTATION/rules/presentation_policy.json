@@ -1,0 +1,89 @@
+{
+  "version": "1.1",
+  "brand": "Media Platforma",
+  "default_viewing_mode": "live",
+  "hard_rules": {
+    "single_primary_conclusion": true,
+    "preserve_fact_routing": true,
+    "shrink_text_to_fit": false,
+    "reuse_negative_assets": false,
+    "negative_root_node_ids": [
+      "2166:5671",
+      "2166:1322",
+      "2166:1444",
+      "2166:1588",
+      "2166:1866",
+      "2166:2099",
+      "2166:2249",
+      "2166:2469",
+      "2166:2602",
+      "2166:2718",
+      "2166:2861",
+      "2166:2996",
+      "2166:3183",
+      "2166:3371",
+      "2166:3736",
+      "2166:4004"
+    ],
+    "include_all_descendants_in_deny_rule": true,
+    "generate_data_charts_as_images": false,
+    "figma_ai_credits_authorized": false,
+    "render_review_required": true
+  },
+  "workflow_heuristics": {
+    "authority": "WORKFLOW: proposed, not Figma tokens",
+    "reference_canvas_px": [
+      1920,
+      1080
+    ],
+    "live_word_review_trigger": 60,
+    "reading_word_review_trigger": 90,
+    "live_body_px": [
+      30,
+      36
+    ],
+    "reading_body_px": [
+      28,
+      32
+    ],
+    "essential_labels_target_min_px": 24,
+    "default_primary_charts": 1,
+    "initial_table_budget": {
+      "rows": 6,
+      "columns": 4
+    },
+    "exceeding_budget": "requires_visual_review_and_documented_reason_not_automatic_failure"
+  },
+  "graphic_roles": {
+    "metal_3d": "primary_illustration",
+    "photo": "human_presence",
+    "ascii": "background_only",
+    "diy": "accent_background",
+    "chart": "data_evidence",
+    "real_screenshot": "documentary_evidence"
+  },
+  "blocking_findings": [
+    "unreadable_essential_content",
+    "negative_source_asset",
+    "fabricated_or_incorrect_data",
+    "misleading_chart",
+    "lost_essential_condition",
+    "unverified_key_asset",
+    "claimed_visual_review_without_render"
+  ],
+  "background_rhythm": {
+    "authority": "USER",
+    "base_backgrounds": [
+      "white",
+      "almost_black"
+    ],
+    "accent_background": "brand_lime",
+    "selection_basis": "narrative_structure_and_emphasis",
+    "mechanical_color_rotation": false,
+    "additional_palette_as_multicolor_full_slide_sequence": false,
+    "same_background_consecutive_slides_allowed": true,
+    "fixed_color_quota": null,
+    "per_slide_background_role_and_reason_required": true,
+    "whole_deck_thumbnail_review_required": true
+  }
+}

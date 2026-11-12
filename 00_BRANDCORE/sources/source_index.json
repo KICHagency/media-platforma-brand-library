@@ -1,0 +1,163 @@
+[
+  {
+    "id": "CORE",
+    "title": "Общий гайд",
+    "node_id": "2088:279",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2088-279",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "LOGO",
+    "title": "Варианты логотипа",
+    "node_id": "2088:357",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2088-357",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "LOGO_COLOR",
+    "title": "Логотип на разных фонах",
+    "node_id": "2088:530",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2088-530",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "COBRAND",
+    "title": "Кобрендинг",
+    "node_id": "2089:2517",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2089-2517",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "LOGO_SYSTEM",
+    "title": "Правила компонентов логотипа",
+    "node_id": "63:1820",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=63-1820",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "COLOR",
+    "title": "Основная палитра",
+    "node_id": "2088:359",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2088-359",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "COLOR_EXT",
+    "title": "Дополнительная палитра",
+    "node_id": "2088:610",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2088-610",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "TYPE",
+    "title": "Типографическая иерархия",
+    "node_id": "2089:2891",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2089-2891",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "DIY",
+    "title": "DIY-фоны",
+    "node_id": "2088:363",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2088-363",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "METAL",
+    "title": "Исходные эталоны Metal 3D",
+    "node_id": "2143:830",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2143-830",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "METAL_USE",
+    "title": "Обрезка и перекрытие текста",
+    "node_id": "2143:850",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2143-850",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "METAL_JSON",
+    "title": "Metal 3D JSON v2",
+    "node_id": "2147:667",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2147-667",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "METAL_NEG",
+    "title": "Metal 3D negative v2",
+    "node_id": "2147:671",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2147-671",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "PHOTO",
+    "title": "Описание фотостиля",
+    "node_id": "2158:890",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2158-890",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "PHOTO_JSON",
+    "title": "JSON фотостиля",
+    "node_id": "2158:887",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2158-887",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "PHOTO_SCENE",
+    "title": "Фото в окружении",
+    "node_id": "2158:882",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2158-882",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "PHOTO_IMAGE",
+    "title": "Имиджевое фото",
+    "node_id": "2158:879",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2158-879",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "PHOTO_CUTOUT",
+    "title": "Композиция из вырезанных людей",
+    "node_id": "2158:874",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2158-874",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "ASCII",
+    "title": "Assets / ASCII: исходные референсы",
+    "node_id": "2166:1055",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2166-1055",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "ASCII_DARK",
+    "title": "ASCII JSON: тёмная версия",
+    "node_id": "2169:663",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2169-663",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "ASCII_LIGHT",
+    "title": "ASCII JSON: белая версия",
+    "node_id": "2169:673",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2169-673",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "ASCII_NEG_FORM",
+    "title": "ASCII negative: форма",
+    "node_id": "2169:683",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2169-683",
+    "read_on": "2026-11-12"
+  },
+  {
+    "id": "ASCII_NEG_TONE",
+    "title": "ASCII negative: тон",
+    "node_id": "2169:693",
+    "url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2169-693",
+    "read_on": "2026-11-12"
+  }
+]

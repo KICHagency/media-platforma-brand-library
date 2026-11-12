@@ -1,0 +1,33 @@
+{
+  "version": "2.0",
+  "subject": "Single solid checkmark",
+  "reference": "original-cone.png",
+  "material": "Satin silver aluminium; fine directional brushing",
+  "geometry": "Realistic thickness, small smooth rounded bevels",
+  "camera": {
+    "preset": "near-frontal",
+    "yaw": -10,
+    "pitch": 5,
+    "roll": -15,
+    "alternatives": [
+      "high",
+      "low",
+      "side",
+      "reverse-three-quarter"
+    ]
+  },
+  "lighting": {
+    "key": "Broad white softbox; reveal satin grain",
+    "accent_color": "#8BF500",
+    "accent": "Broad lime reflection on visible front surface",
+    "coverage": "20–35% of visible object; visual target",
+    "direction": "Adjust to camera, keep silver dominant"
+  },
+  "output": {
+    "format": "PNG RGBA",
+    "transparent_background": true,
+    "framing": "One complete object, 8% clear margin"
+  },
+  "negative_prompt": "Opaque backdrop, floor, halo, plastic, liquid chrome, coarse scratches, inflated bevels, impossible joints, weak lime, text, logos, cropped object",
+  "provider": "ChatGPT; Figma AI only with explicit permission"
+}

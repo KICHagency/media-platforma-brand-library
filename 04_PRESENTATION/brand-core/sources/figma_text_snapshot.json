@@ -1,0 +1,2784 @@
+{
+  "2088:278": {
+    "page": "GUIDE",
+    "frames": [
+      {
+        "id": "2089:3047",
+        "name": "20",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:365",
+        "name": "19",
+        "type": "FRAME"
+      },
+      {
+        "id": "2089:3064",
+        "name": "18",
+        "type": "FRAME"
+      },
+      {
+        "id": "2089:3038",
+        "name": "17",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:354",
+        "name": "16",
+        "type": "FRAME"
+      },
+      {
+        "id": "2090:1013",
+        "name": "15",
+        "type": "FRAME"
+      },
+      {
+        "id": "2171:5672",
+        "name": "21",
+        "type": "FRAME"
+      },
+      {
+        "id": "2090:1011",
+        "name": "14",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:363",
+        "name": "13",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:352",
+        "name": "12",
+        "type": "FRAME"
+      },
+      {
+        "id": "2089:2891",
+        "name": "11",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:361",
+        "name": "10",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:350",
+        "name": "09",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:610",
+        "name": "08",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:359",
+        "name": "07",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:348",
+        "name": "06",
+        "type": "FRAME"
+      },
+      {
+        "id": "2089:2517",
+        "name": "05",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:530",
+        "name": "04",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:357",
+        "name": "03",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:314",
+        "name": "02",
+        "type": "FRAME"
+      },
+      {
+        "id": "2088:279",
+        "name": "01",
+        "type": "FRAME"
+      }
+    ],
+    "texts": [
+      {
+        "id": "2089:3073",
+        "parent": "2089:3064",
+        "text": "Рост, основанный\nна реальных людях",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2089:3042",
+        "parent": "2089:3038",
+        "text": "{\n  \"name\": \"Media Platform — Brand Photography\",\n  \"version\": \"1.0\",\n  \"task\": \"Создать одну фотореалистичную фотографию в фирменном стиле Media Platform.\",\n  \"replace_this\": {\n    \"person\": {\n      \"gender\": \"Мужчина\",\n      \"age\": \"35–40 лет\",\n      \"appearance\": \"Короткие каштановые волосы, лёгкая щетина, индивидуальные естественные черты лица\",\n      \"wardrobe\": \"Тёмно-синяя свободная рубашка поверх серой футболки, тёмные брюки\",\n      \"accessories\": \"Чёрные солнцезащитные очки\"\n    },\n    \"action\": \"Сидит за компьютером, на мгновение отвлёкся от работы и смотрит вверх в камеру\",\n    \"pose\": \"Комфортно откинулся в кресле, плечи расслаблены, один локоть опирается на подлокотник, другая рука свободно лежит на клавиатуре\",\n    \"emotion\": \"Спокойная уверенность, удовольствие от происходящего, лёгкая искренняя улыбка\",\n    \"gaze\": \"В объектив камеры\",\n    \"devices\": \"Большой настольный монитор справа, клавиатура перед героем, мышь рядом\",\n    \"environment\": \"Современное тёмное рабочее пространство с лаконичным столом и удобным креслом\",\n    \"background_details\": \"Немного ненавязчивых деталей интерьера, без визуального беспорядка\",\n    \"composition\": {\n      \"orientation\": \"Вертикальная\",\n      \"aspect_ratio\": \"4:5\",\n      \"framing\": \"Герой, руки, кресло и рабочее место хорошо читаются\",\n      \"subject_position\": \"Герой слева от центра, большой монитор справа\",\n      \"negative_space\": \"Небольшой запас пространства вокруг головы и рук\",\n      \"camera_mode\": \"wide_angle_overhead\"\n    },\n    \"green_light\": {\n      \"direction\": \"Спереди и слева от камеры\",\n      \"placement\": \"Лоб, висок, щека, часть носа, рука и плечо\",\n      \"intensity\": \"Заметный насыщенный акцент с мягкими переходами\",\n      \"brand_hex\": null\n    }\n  },\n  \"camera_modes\": {\n    \"wide_angle_overhead\": {\n      \"lens_reference\": \"14–20 мм в полнокадровом эквиваленте\",\n      \"position\": \"Камера близко к герою и заметно выше уровня глаз, направлена вниз\",\n      \"perspective\": \"Ближайшие части лица, руки и предметы укрупняются, тело и пространство уходят в глубину\",\n      \"distortion\": \"Выразительное широкоугольное искажение с лёгким эффектом фишая и изгибом линий по краям\",\n      \"limits\": \"Сохранять узнаваемые черты, убедительную анатомию и геометрию предметов; без круглой чёрной рамки фишая\"\n    },\n    \"natural_eye_level\": {\n      \"lens_reference\": \"50–85 мм в полнокадровом эквиваленте\",\n      \"position\": \"Камера на уровне глаз, без наклона горизонта\",\n      \"perspective\": \"Естественные пропорции лица, рук и тела\",\n      \"distortion\": \"Без заметных широкоугольных искажений\"\n    }\n  },\n  \"visual_style\": {\n    \"genre\": \"Современная редакционная бренд-фотография\",\n    \"character\": \"Живая, уверенная, технологичная, непринуждённая\",\n    \"staging\": \"Продуманная постановка с ощущением естественно пойманного момента\",\n    \"casting\": \"Реальные разнообразные типажи и возрасты, индивидуальная внешность\",\n    \"expressions\": \"Живая мимика, естественная асимметрия, эмоция соответствует действию\",\n    \"poses\": \"Удобные свободные положения тела, правдоподобные жесты и взаимодействие с предметами\"\n ",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "2089:3072",
+        "parent": "2089:3038",
+        "text": " },\n  \"lighting\": {\n    \"neutral_key\": \"Мягкий нейтральный источник раскрывает лицо и сохраняет натуральный цвет кожи вне зелёного акцента\",\n    \"brand_accent\": \"Отдельный внешний источник с зелёным фильтром, расположение задаётся в replace_this.green_light\",\n    \"face_coverage\": \"Зелёный свет обязательно захватывает видимую плоскость лица, а не только контур волос и плеч\",\n    \"behavior\": \"Свет следует объёму лица, фактуре ткани и материалам предметов; имеет естественные тени и плавное затухание\",\n    \"balance\": \"Часть лица остаётся освещённой нейтрально, детали сохраняются в светах и тенях\",\n    \"background\": \"Преимущественно тёмный графитовый, с контролируемым количеством деталей\",\n    \"separation\": \"Достаточное отделение силуэта от фона без искусственного ореола\",\n    \"device_light\": \"Устройства не считаются источником зелёного света, если это отдельно не указано в сюжете\"\n  },\n  \"realism\": {\n    \"skin\": \"Естественные поры, микроволоски, небольшая неоднородность тона, родинки и соответствующие возрасту мимические линии\",\n    \"skin_detail_scale\": \"Фактура соразмерна крупности кадра, без искусственного усиления пор и морщин\",\n    \"hair\": \"Отдельные волоски, естественный объём и умеренное количество выбившихся прядей\",\n    \"eyes\": \"Естественные блики, согласованное направление взгляда\",\n    \"teeth\": \"Правдоподобный оттенок, форма и небольшие индивидуальные различия\",\n    \"hands\": \"Анатомически корректные кисти и пальцы, естественный хват и контакт с устройствами\",\n    \"clothing\": \"Реальные швы, плетение ткани, складки и посадка по телу\",\n    \"devices\": \"Цельная конструкция, правдоподобные пропорции, экраны и шарниры ориентированы в соответствии с действием\"\n  },\n  \"retouch_and_color\": {\n    \"retouch\": \"Деликатная профессиональная обработка с сохранением индивидуальности и фактуры\",\n    \"skin_tone\": \"Натуральный вне зон цветного освещения\",\n    \"contrast\": \"Выразительный, с сохранением деталей в тенях\",\n    \"green\": \"Насыщенный локальный световой акцент\",\n    \"sharpness\": \"Фотографическая резкость без перешарпа\",\n    \"grain\": \"Минимальное естественное зерно при необходимости\",\n    \"finish\": \"Убедительная фотография, пригодная для сайта и презентации\"\n  },\n  \"negative_prompt\": [\n    \"Пластиковая или восковая кожа\",\n    \"Размытая бьюти-ретушь\",\n    \"Искусственно усиленные поры и морщины\",\n    \"CGI и иллюстративность\",\n    \"Застывшая рекламная улыбка\",\n    \"Необоснованно восторженная эмоция\",\n    \"Скованная неудобная поза\",\n    \"Идеально одинаковые белые зубы\",\n    \"Зелёный фильтр поверх всего кадра\",\n    \"Только контурный зелёный свет без освещения лица\",\n    \"Неоновый ореол вокруг человека\",\n    \"Потеря фактуры в пересвеченных участках\",\n    \"Карикатурное искажение лица\",\n    \"Лишние или сросшиеся пальцы\",\n    \"Нелогичное взаимодействие с устройствами\",\n    \"Случайно обрезанные кисти и макушка\",\n    \"Текст, логотипы и водяные знаки\"\n  ],\n  \"generation_instruction\": \"Используй replace_this для сюжета, героя, окружения и композиции. Примени только тот режим камеры из camera_modes, который указан в replace_this.composition.camera_mode. Остальные разделы соблюдай как постоянные правила фотостиля. Если приложены референсы, наследуй из них оптику, свет и обработку; внешность человека копируй только при явном запросе сохранить его идентичность.\"\n}",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "2088:355",
+        "parent": "2088:354",
+        "text": "Фотостилистика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2088:447",
+        "parent": "2088:354",
+        "text": "Фотостиль Media Platform строится на живых эмоциях, свободных позах и выразительной широкоугольной перспективе. Съёмка с близкого расстояния и верхнего ракурса укрупняет ближайшие детали, добавляет глубину и создаёт ощущение непосредственного контакта с человеком; для спокойных сюжетов используется камера на уровне глаз без искажений. Фирменный зелёный присутствует как реальный свет: мягко захватывает лицо, одежду и предметы, сочетаясь с нейтральным освещением и тёмным окружением. Естественная фактура кожи, волос и тканей сохраняется благодаря деликатной ретуши, а индивидуальная внешность и непринуждённые действия делают кадры убедительными и человечными.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2090:1014",
+        "parent": "2090:1013",
+        "text": "Metal-3D",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2090:1290",
+        "parent": "2090:1013",
+        "text": "Металлизированная 3D-графика подчёркивает технологичность Media Platform и делает цифровые инструменты наглядными и осязаемыми. Простые узнаваемые формы, сатиновая фактура металла и мягкие белые блики передают точность и сдержанность, а зелёный свет связывает объекты с фирменной палитрой. Единый материал и характер освещения объединяют разные сюжеты в одну систему, которую можно развивать для новых продуктов, сервисов и коммуникаций.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2171:5675",
+        "parent": "2171:5673",
+        "text": "Важный клик",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 88
+      },
+      {
+        "id": "2171:5677",
+        "parent": "2171:5676",
+        "text": "Время уходит\nпокупатели не ждут",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 72
+      },
+      {
+        "id": "2171:5679",
+        "parent": "2171:5672",
+        "text": "Генерация полностью помещается в макет",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2171:5680",
+        "parent": "2171:5672",
+        "text": "Генерация может быть обрезанной или перекрывать текст",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2090:1012",
+        "parent": "2090:1011",
+        "text": "ASCII-графика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2090:1289",
+        "parent": "2090:1011",
+        "text": "ASCII-графика переводит привычные объекты в язык символов, подчёркивая цифровую природу Media Platforma и её работу с информацией. Разная плотность знаков формирует объём и фактуру — так отдельные элементы складываются в целостный образ, подобно данным, из которых платформа выявляет тренды и закономерности. Монохромная палитра сохраняет сдержанность фирменного стиля, а необычная текстура делает графику узнаваемой и выразительной.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2088:364",
+        "parent": "2088:363",
+        "text": "DIY-фоны",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2090:1236",
+        "parent": "2088:363",
+        "text": "Фирменный фоновый паттерн — регулярная сетка из небольших квадратов, которая отсылает к пикселям, данным и модульной структуре цифровой среды. Её выверенный ритм поддерживает точность и системность бренда, добавляя однотонным поверхностям лёгкую фактуру. Паттерн используется на белом, чёрном и фирменном зелёном фоне: сохраняет низкую контрастность и оставляет главный акцент на тексте, фотографиях и графике.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2088:353",
+        "parent": "2088:352",
+        "text": "Графика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2089:2908",
+        "parent": "2089:2914",
+        "text": "Главный заголовок первого\nуровня акцентный",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 110
+      },
+      {
+        "id": "2089:2909",
+        "parent": "2089:2913",
+        "text": "Уточняющий заголовок второго\nи последующих уровней",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2089:2912",
+        "parent": "2089:2913",
+        "text": "Наборный текст, самый обыкновенный,\nчтобы пользователю было удобно его читать",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2919",
+        "parent": "2089:2891",
+        "text": "Акцентный заголовок: Fluxetype —\nStyle: Regular, Size: 110px, Line-height:110%,Letter-spacing: -2%",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 16
+      },
+      {
+        "id": "2089:2923",
+        "parent": "2089:2891",
+        "text": "Наборный заголовок: Inter —\nStyle: Semi-bold, Size: 32px, Line-height:110%,Letter-spacing: -2%",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 16
+      },
+      {
+        "id": "2089:2924",
+        "parent": "2089:2891",
+        "text": "Наборный заголовок: Inter —\nStyle: Light, Size: 24px, Line-height:120%,Letter-spacing: -2%",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 16
+      },
+      {
+        "id": "2089:2918",
+        "parent": "2089:2891",
+        "text": "Правила иерархии типографики",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2089:2800",
+        "parent": "2089:2799",
+        "text": "Для акцентных заголовков",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2089:2786",
+        "parent": "2089:2890",
+        "text": "Aa",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 250
+      },
+      {
+        "id": "2089:2788",
+        "parent": "2089:2886",
+        "text": "Fluxetype",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 64
+      },
+      {
+        "id": "2089:2793",
+        "parent": "2089:2886",
+        "text": "Regular",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2089:2798",
+        "parent": "2089:2797",
+        "text": "Для наборного текста",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2089:2785",
+        "parent": "2089:2889",
+        "text": "Aa",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 250
+      },
+      {
+        "id": "2089:2787",
+        "parent": "2089:2887",
+        "text": "Inter",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 64
+      },
+      {
+        "id": "2089:2794",
+        "parent": "2089:2887",
+        "text": "Semi Bold / Light",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2088:351",
+        "parent": "2088:350",
+        "text": "Типографика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2088:443",
+        "parent": "2088:350",
+        "text": "Типографическая система сочетает выразительность акцентных заголовков и удобство чтения наборного текста. Fluxetype Regular задаёт характер бренда и выделяет ключевые сообщения, а Inter формирует информационную основу: Semi Bold используется для подзаголовков, Light — для основного текста. Единая иерархия размеров, начертаний и интервалов помогает последовательно раскрывать содержание и сохранять целостность оформления на сайте, в презентациях и других материалах.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2823",
+        "parent": "2089:2822",
+        "text": "Coral",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2824",
+        "parent": "2089:2822",
+        "text": "#D63241",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2832",
+        "parent": "2089:2831",
+        "text": "Coral-800",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2833",
+        "parent": "2089:2831",
+        "text": "#62141C",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2841",
+        "parent": "2089:2840",
+        "text": "Coral-200",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2842",
+        "parent": "2089:2840",
+        "text": "#FFADB4",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2835",
+        "parent": "2089:2834",
+        "text": "Amber-800",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2836",
+        "parent": "2089:2834",
+        "text": "#634610",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2826",
+        "parent": "2089:2825",
+        "text": "Amber",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2827",
+        "parent": "2089:2825",
+        "text": "#D99A29",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2838",
+        "parent": "2089:2837",
+        "text": "Blue-800",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2839",
+        "parent": "2089:2837",
+        "text": "#172C61",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2844",
+        "parent": "2089:2843",
+        "text": "Amber-200",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2845",
+        "parent": "2089:2843",
+        "text": "#FFEAC2",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2829",
+        "parent": "2089:2828",
+        "text": "Blue",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2830",
+        "parent": "2089:2828",
+        "text": "#3265E2",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2847",
+        "parent": "2089:2846",
+        "text": "Blue-200",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2848",
+        "parent": "2089:2846",
+        "text": "#ADC5FF",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2808",
+        "parent": "2089:2807",
+        "text": "Almost black",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2809",
+        "parent": "2089:2807",
+        "text": "#131313",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2819",
+        "parent": "2089:2818",
+        "text": "Olive",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2820",
+        "parent": "2089:2818",
+        "text": "#DBF5BA",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2801",
+        "parent": "2089:2805",
+        "text": "Lime",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2802",
+        "parent": "2089:2805",
+        "text": "#8BF500",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2812",
+        "parent": "2089:2811",
+        "text": "Lime",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2813",
+        "parent": "2089:2811",
+        "text": "#8BF500",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2816",
+        "parent": "2089:2815",
+        "text": "White",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 48
+      },
+      {
+        "id": "2089:2817",
+        "parent": "2089:2815",
+        "text": "#FFFFFF",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2088:349",
+        "parent": "2088:348",
+        "text": "Колористика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2089:2779",
+        "parent": "2089:2780",
+        "text": "Основная палитра",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 40
+      },
+      {
+        "id": "2088:441",
+        "parent": "2089:2780",
+        "text": "Палитра сочетает энергию яркого зелёного со строгостью чёрного и чистотой белого. Зелёный создаёт узнаваемый акцент и передаёт динамику бренда, а нейтральная основа сохраняет точность и сдержанность деловой коммуникации. Светло-зелёный дополняет систему мягкими фонами и помогает расставлять акценты без излишней контрастности.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2782",
+        "parent": "2089:2781",
+        "text": "Дополнительная палитра",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 40
+      },
+      {
+        "id": "2089:2783",
+        "parent": "2089:2781",
+        "text": "Дополнительные красные, охристые и синие оттенки расширяют возможности палитры для инфографики, интерфейсов и тематических материалов. Каждый цвет представлен в трёх градациях — светлой, насыщенной и тёмной, — чтобы выстраивать иерархию, разделять данные и подбирать сочетания для разных фонов. Их роль — поддерживать содержание, сохраняя ведущую роль фирменного зелёного.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2089:2529",
+        "parent": "2089:2527",
+        "text": "Deutsche Bank Technology Centre",
+        "font": {
+          "family": "Deutsche Bank Display",
+          "style": "Regular"
+        },
+        "size": 17.4699649810791
+      },
+      {
+        "id": "2090:1391",
+        "parent": "2089:2523",
+        "text": "Кобрендинг",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2088:975",
+        "parent": "2088:452",
+        "text": "Основной логотип",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2088:979",
+        "parent": "2088:453",
+        "text": "Горизонтальный логотип",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2088:981",
+        "parent": "2088:454",
+        "text": "Иконка",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 32
+      },
+      {
+        "id": "2088:346",
+        "parent": "2088:314",
+        "text": "Логотип",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2088:440",
+        "parent": "2088:314",
+        "text": "Логотип Media Platforma отражает характер компании, которая считывает, оценивает и задаёт тренды. Наклонные элементы знака олицетворяют движение бизнеса, создавая его динамическое визуальное сопровождение, а выверенный ритм и строгая типографика передают точность и системность подхода. Это сочетание выражает чувствительность платформы к изменениям и дисциплину, необходимую для работы с крупным бизнесом.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2088:280",
+        "parent": "2088:279",
+        "text": "Руководство\nпо использованию\nфирменного стиля\nMedia Platforma",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      }
+    ]
+  },
+  "2143:829": {
+    "page": "3D-gnerations",
+    "frames": [
+      {
+        "id": "2147:671",
+        "name": "09",
+        "type": "FRAME"
+      },
+      {
+        "id": "2147:667",
+        "name": "08",
+        "type": "FRAME"
+      },
+      {
+        "id": "2147:644",
+        "name": "07",
+        "type": "FRAME"
+      },
+      {
+        "id": "2147:621",
+        "name": "06",
+        "type": "FRAME"
+      },
+      {
+        "id": "2147:598",
+        "name": "05",
+        "type": "FRAME"
+      },
+      {
+        "id": "2147:575",
+        "name": "04",
+        "type": "FRAME"
+      },
+      {
+        "id": "2147:558",
+        "name": "03",
+        "type": "FRAME"
+      },
+      {
+        "id": "2143:850",
+        "name": "02",
+        "type": "FRAME"
+      },
+      {
+        "id": "2143:830",
+        "name": "01",
+        "type": "FRAME"
+      }
+    ],
+    "texts": [
+      {
+        "id": "2147:672",
+        "parent": "2147:671",
+        "text": "Metal 3D — негативный промпт / v2",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2147:673",
+        "parent": "2147:671",
+        "text": "Реалистичный предмет с сатинированным металлом. Эталон материала — исходный конус.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "2147:676",
+        "parent": "2147:675",
+        "text": "Не допускаем",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 36
+      },
+      {
+        "id": "2147:677",
+        "parent": "2147:675",
+        "text": "Фон внутри PNG, нарисованная шахматка, пол и теневая подложка.\n\nПластик, жидкий хром, грубая шлифовка, коррозия и раздутые фаски.\n\nНевозможные соединения, деформация формы, лишние детали.\n\nСлабый рефлекс, свет только сзади, тонкая зелёная обводка.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "2147:679",
+        "parent": "2147:678",
+        "text": "Проверяем перед добавлением",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 36
+      },
+      {
+        "id": "2147:680",
+        "parent": "2147:678",
+        "text": "Настоящий альфа-канал; чистый контур на светлом и тёмном фоне.\n\nСеребро преобладает; зелёный рефлекс занимает заметную часть видимой поверхности.\n\nМягкий белый свет раскрывает сатинирование и фаски.\n\nРакурс выбран под форму; объект целиком, без текста и логотипов.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "2147:681",
+        "parent": "2147:671",
+        "text": "NEGATIVE PROMPT",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 26
+      },
+      {
+        "id": "2147:682",
+        "parent": "2147:671",
+        "text": "Opaque background, checkerboard, floor, halo, plastic, liquid chrome, coarse scratches, inflated bevels, impossible joints, weak green reflection, text, logos, cropped object",
+        "font": {
+          "family": "JetBrains Mono",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400
+          }
+        },
+        "size": 26
+      },
+      {
+        "id": "2147:683",
+        "parent": "2147:671",
+        "text": "Генерация — в ChatGPT. Figma AI и её кредиты — только с явного разрешения владельца.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 26
+      },
+      {
+        "id": "2147:668",
+        "parent": "2147:667",
+        "text": "Metal 3D — JSON prompt / v2",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2147:669",
+        "parent": "2147:667",
+        "text": "Объект и ракурс меняются под задачу. Материал, прозрачность и характер света сохраняются.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:670",
+        "parent": "2147:667",
+        "text": "{\n  \"version\": \"2.0\",\n  \"subject\": \"Single solid checkmark\",\n  \"reference\": \"original-cone.png\",\n  \"material\": \"Satin silver aluminium; fine directional brushing\",\n  \"geometry\": \"Realistic thickness, small smooth rounded bevels\",\n  \"camera\": {\n    \"preset\": \"near-frontal\", \"yaw\": -10, \"pitch\": 5, \"roll\": -15,\n    \"alternatives\": [\"high\", \"low\", \"side\", \"reverse-three-quarter\"]\n  },\n  \"lighting\": {\n    \"key\": \"Broad white softbox; reveal satin grain\",\n    \"accent_color\": \"#8BF500\",\n    \"accent\": \"Broad lime reflection on visible front surface\",\n    \"coverage\": \"20–35% of visible object; visual target\",\n    \"direction\": \"Adjust to camera, keep silver dominant\"\n  },\n  \"output\": {\n    \"format\": \"PNG RGBA\", \"transparent_background\": true,\n    \"framing\": \"One complete object, 8% clear margin\"\n  },\n  \"negative_prompt\": \"Opaque backdrop, floor, halo, plastic, liquid chrome, coarse scratches, inflated bevels, impossible joints, weak lime, text, logos, cropped object\",\n  \"provider\": \"ChatGPT; Figma AI only with explicit permission\"\n}",
+        "font": {
+          "family": "JetBrains Mono",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400
+          }
+        },
+        "size": 22
+      },
+      {
+        "id": "2147:645",
+        "parent": "2147:644",
+        "text": "Metal 3D / Инструменты и процессы",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 56
+      },
+      {
+        "id": "2147:646",
+        "parent": "2147:644",
+        "text": "Сатиновый алюминий · белый студийный свет · локальный лаймовый рефлекс",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:650",
+        "parent": "2147:648",
+        "text": "25 · Шестерня",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:653",
+        "parent": "2147:651",
+        "text": "26 · Ползунки",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:656",
+        "parent": "2147:654",
+        "text": "27 · Календарь",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:660",
+        "parent": "2147:658",
+        "text": "28 · Секундомер",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:663",
+        "parent": "2147:661",
+        "text": "29 · Слои",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:666",
+        "parent": "2147:664",
+        "text": "30 · Конус",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:622",
+        "parent": "2147:621",
+        "text": "Metal 3D / Проверка и безопасность",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 56
+      },
+      {
+        "id": "2147:623",
+        "parent": "2147:621",
+        "text": "Сатиновый алюминий · белый студийный свет · локальный лаймовый рефлекс",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:627",
+        "parent": "2147:625",
+        "text": "19 · Щит",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:630",
+        "parent": "2147:628",
+        "text": "20 · Замок",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:633",
+        "parent": "2147:631",
+        "text": "21 · Ключ",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:637",
+        "parent": "2147:635",
+        "text": "22 · Проверка",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:640",
+        "parent": "2147:638",
+        "text": "23 · Лупа",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:643",
+        "parent": "2147:641",
+        "text": "24 · Отпечаток",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:599",
+        "parent": "2147:598",
+        "text": "Metal 3D / Покупки и платежи",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 56
+      },
+      {
+        "id": "2147:600",
+        "parent": "2147:598",
+        "text": "Сатиновый алюминий · белый студийный свет · локальный лаймовый рефлекс",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:604",
+        "parent": "2147:602",
+        "text": "13 · Кошелёк",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:607",
+        "parent": "2147:605",
+        "text": "14 · Карта",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:610",
+        "parent": "2147:608",
+        "text": "15 · Монеты",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:614",
+        "parent": "2147:612",
+        "text": "16 · Чек",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:617",
+        "parent": "2147:615",
+        "text": "17 · Пакет",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:620",
+        "parent": "2147:618",
+        "text": "18 · Посылка",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:576",
+        "parent": "2147:575",
+        "text": "Metal 3D / Контент и коммуникация",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 56
+      },
+      {
+        "id": "2147:577",
+        "parent": "2147:575",
+        "text": "Сатиновый алюминий · белый студийный свет · локальный лаймовый рефлекс",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:581",
+        "parent": "2147:579",
+        "text": "07 · Курсор",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:584",
+        "parent": "2147:582",
+        "text": "08 · Сообщение",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:587",
+        "parent": "2147:585",
+        "text": "09 · Микрофон",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:591",
+        "parent": "2147:589",
+        "text": "10 · Камера",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:594",
+        "parent": "2147:592",
+        "text": "11 · Наушники",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:597",
+        "parent": "2147:595",
+        "text": "12 · Видео",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:559",
+        "parent": "2147:558",
+        "text": "Metal 3D / Аналитика и данные",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 56
+      },
+      {
+        "id": "2147:560",
+        "parent": "2147:558",
+        "text": "Сатиновый алюминий · белый студийный свет · локальный лаймовый рефлекс",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:563",
+        "parent": "2147:562",
+        "text": "01 · Столбцы",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:565",
+        "parent": "2147:564",
+        "text": "02 · Диаграмма",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:567",
+        "parent": "2147:566",
+        "text": "03 · Тренд",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:570",
+        "parent": "2147:569",
+        "text": "04 · Цель",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:572",
+        "parent": "2147:571",
+        "text": "05 · Фильтр",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2147:574",
+        "parent": "2147:573",
+        "text": "06 · База данных",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2143:866",
+        "parent": "2143:857",
+        "text": "Важный клик",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 88
+      },
+      {
+        "id": "2143:869",
+        "parent": "2143:861",
+        "text": "Время уходит\nпокупатели не ждут",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 72
+      },
+      {
+        "id": "2143:871",
+        "parent": "2143:850",
+        "text": "Генерация полностью помещается в макет",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2143:872",
+        "parent": "2143:850",
+        "text": "Генерация может быть обрезанной или перекрывать текст",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2143:831",
+        "parent": "2143:830",
+        "text": "Metal-3D",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2143:832",
+        "parent": "2143:830",
+        "text": "Металлизированная 3D-графика подчёркивает технологичность Media Platform и делает цифровые инструменты наглядными и осязаемыми. Простые узнаваемые формы, сатиновая фактура металла и мягкие белые блики передают точность и сдержанность, а зелёный свет связывает объекты с фирменной палитрой. Единый материал и характер освещения объединяют разные сюжеты в одну систему, которую можно развивать для новых продуктов, сервисов и коммуникаций.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      }
+    ]
+  },
+  "2158:873": {
+    "page": "Photostyle",
+    "frames": [
+      {
+        "id": "2158:874",
+        "name": "20",
+        "type": "FRAME"
+      },
+      {
+        "id": "2158:879",
+        "name": "19",
+        "type": "FRAME"
+      },
+      {
+        "id": "2158:882",
+        "name": "18",
+        "type": "FRAME"
+      },
+      {
+        "id": "2158:887",
+        "name": "17",
+        "type": "FRAME"
+      },
+      {
+        "id": "2158:890",
+        "name": "16",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:593",
+        "name": "01 / Фото в окружении / Женщина 24 · смартфон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:626",
+        "name": "02 / Фото в окружении / Мужчина 38 · ноутбук",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:659",
+        "name": "03 / Фото в окружении / Женщина 52 · планшет",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:692",
+        "name": "04 / Фото в окружении / Мужчина 67 · смартфон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:725",
+        "name": "05 / Фото в окружении / Женщина 31 · камера",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:758",
+        "name": "06 / Фото в окружении / Мужчина 22 · геймпад",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:791",
+        "name": "07 / Фото в окружении / Женщина 43 · наушники",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:824",
+        "name": "08 / Фото в окружении / Мужчина 46 · планшет",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:857",
+        "name": "09 / Фото в окружении / Женщина 60 · ноутбук",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:890",
+        "name": "10 / Фото в окружении / Мужчина 29 · телефон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:923",
+        "name": "11 / Имидж / Мужчина 67 · смартфон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:938",
+        "name": "12 / Имидж / Женщина 31 · камера",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:953",
+        "name": "13 / Имидж / Мужчина 22 · геймпад",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:968",
+        "name": "14 / Имидж / Женщина 43 · наушники",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:983",
+        "name": "15 / Имидж / Мужчина 46 · планшет",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:998",
+        "name": "16 / Имидж / Женщина 60 · ноутбук",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1013",
+        "name": "17 / Имидж / Мужчина 29 · телефон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1028",
+        "name": "18 / Имидж / Женщина 24 · смартфон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1043",
+        "name": "19 / Имидж / Мужчина 38 · ноутбук",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1058",
+        "name": "20 / Имидж / Женщина 52 · планшет",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1073",
+        "name": "Вырезанные / 1",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1081",
+        "name": "Вырезанные / 2",
+        "type": "FRAME"
+      },
+      {
+        "id": "2161:1089",
+        "name": "Вырезанные / 3",
+        "type": "FRAME"
+      }
+    ],
+    "texts": [
+      {
+        "id": "2158:885",
+        "parent": "2158:882",
+        "text": "Рост, основанный\nна реальных людях",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2158:888",
+        "parent": "2158:887",
+        "text": "{\n  \"name\": \"Media Platform — Brand Photography\",\n  \"version\": \"1.0\",\n  \"task\": \"Создать одну фотореалистичную фотографию в фирменном стиле Media Platform.\",\n  \"replace_this\": {\n    \"person\": {\n      \"gender\": \"Мужчина\",\n      \"age\": \"35–40 лет\",\n      \"appearance\": \"Короткие каштановые волосы, лёгкая щетина, индивидуальные естественные черты лица\",\n      \"wardrobe\": \"Тёмно-синяя свободная рубашка поверх серой футболки, тёмные брюки\",\n      \"accessories\": \"Чёрные солнцезащитные очки\"\n    },\n    \"action\": \"Сидит за компьютером, на мгновение отвлёкся от работы и смотрит вверх в камеру\",\n    \"pose\": \"Комфортно откинулся в кресле, плечи расслаблены, один локоть опирается на подлокотник, другая рука свободно лежит на клавиатуре\",\n    \"emotion\": \"Спокойная уверенность, удовольствие от происходящего, лёгкая искренняя улыбка\",\n    \"gaze\": \"В объектив камеры\",\n    \"devices\": \"Большой настольный монитор справа, клавиатура перед героем, мышь рядом\",\n    \"environment\": \"Современное тёмное рабочее пространство с лаконичным столом и удобным креслом\",\n    \"background_details\": \"Немного ненавязчивых деталей интерьера, без визуального беспорядка\",\n    \"composition\": {\n      \"orientation\": \"Вертикальная\",\n      \"aspect_ratio\": \"4:5\",\n      \"framing\": \"Герой, руки, кресло и рабочее место хорошо читаются\",\n      \"subject_position\": \"Герой слева от центра, большой монитор справа\",\n      \"negative_space\": \"Небольшой запас пространства вокруг головы и рук\",\n      \"camera_mode\": \"wide_angle_overhead\"\n    },\n    \"green_light\": {\n      \"direction\": \"Спереди и слева от камеры\",\n      \"placement\": \"Лоб, висок, щека, часть носа, рука и плечо\",\n      \"intensity\": \"Заметный насыщенный акцент с мягкими переходами\",\n      \"brand_hex\": null\n    }\n  },\n  \"camera_modes\": {\n    \"wide_angle_overhead\": {\n      \"lens_reference\": \"14–20 мм в полнокадровом эквиваленте\",\n      \"position\": \"Камера близко к герою и заметно выше уровня глаз, направлена вниз\",\n      \"perspective\": \"Ближайшие части лица, руки и предметы укрупняются, тело и пространство уходят в глубину\",\n      \"distortion\": \"Выразительное широкоугольное искажение с лёгким эффектом фишая и изгибом линий по краям\",\n      \"limits\": \"Сохранять узнаваемые черты, убедительную анатомию и геометрию предметов; без круглой чёрной рамки фишая\"\n    },\n    \"natural_eye_level\": {\n      \"lens_reference\": \"50–85 мм в полнокадровом эквиваленте\",\n      \"position\": \"Камера на уровне глаз, без наклона горизонта\",\n      \"perspective\": \"Естественные пропорции лица, рук и тела\",\n      \"distortion\": \"Без заметных широкоугольных искажений\"\n    }\n  },\n  \"visual_style\": {\n    \"genre\": \"Современная редакционная бренд-фотография\",\n    \"character\": \"Живая, уверенная, технологичная, непринуждённая\",\n    \"staging\": \"Продуманная постановка с ощущением естественно пойманного момента\",\n    \"casting\": \"Реальные разнообразные типажи и возрасты, индивидуальная внешность\",\n    \"expressions\": \"Живая мимика, естественная асимметрия, эмоция соответствует действию\",\n    \"poses\": \"Удобные свободные положения тела, правдоподобные жесты и взаимодействие с предметами\"\n ",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "2158:889",
+        "parent": "2158:887",
+        "text": " },\n  \"lighting\": {\n    \"neutral_key\": \"Мягкий нейтральный источник раскрывает лицо и сохраняет натуральный цвет кожи вне зелёного акцента\",\n    \"brand_accent\": \"Отдельный внешний источник с зелёным фильтром, расположение задаётся в replace_this.green_light\",\n    \"face_coverage\": \"Зелёный свет обязательно захватывает видимую плоскость лица, а не только контур волос и плеч\",\n    \"behavior\": \"Свет следует объёму лица, фактуре ткани и материалам предметов; имеет естественные тени и плавное затухание\",\n    \"balance\": \"Часть лица остаётся освещённой нейтрально, детали сохраняются в светах и тенях\",\n    \"background\": \"Преимущественно тёмный графитовый, с контролируемым количеством деталей\",\n    \"separation\": \"Достаточное отделение силуэта от фона без искусственного ореола\",\n    \"device_light\": \"Устройства не считаются источником зелёного света, если это отдельно не указано в сюжете\"\n  },\n  \"realism\": {\n    \"skin\": \"Естественные поры, микроволоски, небольшая неоднородность тона, родинки и соответствующие возрасту мимические линии\",\n    \"skin_detail_scale\": \"Фактура соразмерна крупности кадра, без искусственного усиления пор и морщин\",\n    \"hair\": \"Отдельные волоски, естественный объём и умеренное количество выбившихся прядей\",\n    \"eyes\": \"Естественные блики, согласованное направление взгляда\",\n    \"teeth\": \"Правдоподобный оттенок, форма и небольшие индивидуальные различия\",\n    \"hands\": \"Анатомически корректные кисти и пальцы, естественный хват и контакт с устройствами\",\n    \"clothing\": \"Реальные швы, плетение ткани, складки и посадка по телу\",\n    \"devices\": \"Цельная конструкция, правдоподобные пропорции, экраны и шарниры ориентированы в соответствии с действием\"\n  },\n  \"retouch_and_color\": {\n    \"retouch\": \"Деликатная профессиональная обработка с сохранением индивидуальности и фактуры\",\n    \"skin_tone\": \"Натуральный вне зон цветного освещения\",\n    \"contrast\": \"Выразительный, с сохранением деталей в тенях\",\n    \"green\": \"Насыщенный локальный световой акцент\",\n    \"sharpness\": \"Фотографическая резкость без перешарпа\",\n    \"grain\": \"Минимальное естественное зерно при необходимости\",\n    \"finish\": \"Убедительная фотография, пригодная для сайта и презентации\"\n  },\n  \"negative_prompt\": [\n    \"Пластиковая или восковая кожа\",\n    \"Размытая бьюти-ретушь\",\n    \"Искусственно усиленные поры и морщины\",\n    \"CGI и иллюстративность\",\n    \"Застывшая рекламная улыбка\",\n    \"Необоснованно восторженная эмоция\",\n    \"Скованная неудобная поза\",\n    \"Идеально одинаковые белые зубы\",\n    \"Зелёный фильтр поверх всего кадра\",\n    \"Только контурный зелёный свет без освещения лица\",\n    \"Неоновый ореол вокруг человека\",\n    \"Потеря фактуры в пересвеченных участках\",\n    \"Карикатурное искажение лица\",\n    \"Лишние или сросшиеся пальцы\",\n    \"Нелогичное взаимодействие с устройствами\",\n    \"Случайно обрезанные кисти и макушка\",\n    \"Текст, логотипы и водяные знаки\"\n  ],\n  \"generation_instruction\": \"Используй replace_this для сюжета, героя, окружения и композиции. Примени только тот режим камеры из camera_modes, который указан в replace_this.composition.camera_mode. Остальные разделы соблюдай как постоянные правила фотостиля. Если приложены референсы, наследуй из них оптику, свет и обработку; внешность человека копируй только при явном запросе сохранить его идентичность.\"\n}",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "2158:891",
+        "parent": "2158:890",
+        "text": "Фотостилистика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 100
+      },
+      {
+        "id": "2158:892",
+        "parent": "2158:890",
+        "text": "Фотостиль Media Platform строится на живых эмоциях, свободных позах и выразительной широкоугольной перспективе. Съёмка с близкого расстояния и верхнего ракурса укрупняет ближайшие детали, добавляет глубину и создаёт ощущение непосредственного контакта с человеком; для спокойных сюжетов используется камера на уровне глаз без искажений. Фирменный зелёный присутствует как реальный свет: мягко захватывает лицо, одежду и предметы, сочетаясь с нейтральным освещением и тёмным окружением. Естественная фактура кожи, волос и тканей сохраняется благодаря деликатной ретуши, а индивидуальная внешность и непринуждённые действия делают кадры убедительными и человечными.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      }
+    ]
+  },
+  "2166:1054": {
+    "page": "ASCII-graphics",
+    "frames": [
+      {
+        "id": "2166:1055",
+        "name": "14",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:553",
+        "name": "ASCII / 01 / Мегафон · реклама",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:564",
+        "name": "ASCII / 02 / Камера · UGC",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:575",
+        "name": "ASCII / 03 / Микрофон · авторы",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:586",
+        "name": "ASCII / 04 / Смартфон · видео",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:597",
+        "name": "ASCII / 05 / Диалог · отзывы",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:608",
+        "name": "ASCII / 06 / Курсор · конверсия",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:619",
+        "name": "ASCII / 07 / Мишень · таргетинг",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:630",
+        "name": "ASCII / 08 / Портфель · бизнес",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:641",
+        "name": "ASCII / 09 / Рост · аналитика",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:652",
+        "name": "ASCII / 10 / Контакты · сообщество",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:663",
+        "name": "ASCII — JSON / чёрный фон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:673",
+        "name": "ASCII — JSON / белый фон",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:683",
+        "name": "ASCII — негативный промпт / форма",
+        "type": "FRAME"
+      },
+      {
+        "id": "2169:693",
+        "name": "ASCII — негативный промпт / тон",
+        "type": "FRAME"
+      }
+    ],
+    "texts": [
+      {
+        "id": "2166:1056",
+        "parent": "2166:1055",
+        "text": "ASCII-графика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2166:1061",
+        "parent": "2166:1055",
+        "text": "ASCII-графика переводит привычные объекты в язык символов, подчёркивая цифровую природу Media Platforma и её работу с информацией. Разная плотность знаков формирует объём и фактуру — так отдельные элементы складываются в целостный образ, подобно данным, из которых платформа выявляет тренды и закономерности. Монохромная палитра сохраняет сдержанность фирменного стиля, а необычная текстура делает графику узнаваемой и выразительной.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2169:560",
+        "parent": "2169:553",
+        "text": "Мегафон · реклама",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:571",
+        "parent": "2169:564",
+        "text": "Камера · UGC",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:582",
+        "parent": "2169:575",
+        "text": "Микрофон · авторы",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:593",
+        "parent": "2169:586",
+        "text": "Смартфон · видео",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:604",
+        "parent": "2169:597",
+        "text": "Диалог · отзывы",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:615",
+        "parent": "2169:608",
+        "text": "Курсор · конверсия",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:626",
+        "parent": "2169:619",
+        "text": "Мишень · таргетинг",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:637",
+        "parent": "2169:630",
+        "text": "Портфель · бизнес",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:648",
+        "parent": "2169:641",
+        "text": "Рост · аналитика",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:659",
+        "parent": "2169:652",
+        "text": "Контакты · сообщество",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:670",
+        "parent": "2169:663",
+        "text": "ASCII — JSON / чёрный фон",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:671",
+        "parent": "2169:663",
+        "text": "{\n  \"name\": \"Media Platforma — ASCII\",\n  \"version\": \"1.0\",\n  \"role\": \"Вторичная фоновая графика\",\n  \"subject\": \"Мегафон — реклама\",\n  \"view\": \"Объёмный предмет, ракурс три четверти\",\n  \"canvas\": \"1:1; один предмет; поля около 14%\",\n  \"construction\": \"Весь предмет состоит из отдельных моноширинных ASCII-знаков\",\n  \"glyphs\": \". : + * = # % @ / 0 1\",\n  \"grid\": \"Ровные строки и столбцы; пробелы между знаками\",\n  \"volume\": \"Только плотность и яркость символов; без сплошной подложки\",\n  \"contrast\": \"Сдержанный; силуэт читается в конечном размере\",\n  \"detail\": \"Символы различимы при увеличении\",\n  \"reference\": \"Наследовать фактуру и объём, не копировать сюжет\",\n  \"output\": \"PNG с непрозрачным однотонным фоном\",\n  \"check\": \"Проверить силуэт, знаки, поля и равномерность фона\",\n  \"background\": \"#131313\",\n  \"foreground\": \"Нейтральные средне-серые и светло-серые знаки\",\n  \"avoid\": \"Цвет, свечение, ярко-белые заливки, фото, металл, точки вместо знаков\"\n}",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2169:672",
+        "parent": "2169:663",
+        "text": "МЕНЯТЬ\n\nsubject — предмет и тема\nview — положение и ракурс\ncanvas — формат и поля\n\nСОХРАНЯТЬ\n\nМонохромность, отдельные знаки, объём через плотность, спокойный контраст.\n\nФон #131313 взят из исходного слайда. Это фирменный почти чёрный.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "2169:680",
+        "parent": "2169:673",
+        "text": "ASCII — JSON / белый фон",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:681",
+        "parent": "2169:673",
+        "text": "{\n  \"name\": \"Media Platforma — ASCII\",\n  \"version\": \"1.0\",\n  \"role\": \"Вторичная фоновая графика\",\n  \"subject\": \"Мегафон — реклама\",\n  \"view\": \"Объёмный предмет, ракурс три четверти\",\n  \"canvas\": \"1:1; один предмет; поля около 14%\",\n  \"construction\": \"Весь предмет состоит из отдельных моноширинных ASCII-знаков\",\n  \"glyphs\": \". : + * = # % @ / 0 1\",\n  \"grid\": \"Ровные строки и столбцы; пробелы между знаками\",\n  \"volume\": \"Только плотность и яркость символов; без сплошной подложки\",\n  \"contrast\": \"Сдержанный; силуэт читается в конечном размере\",\n  \"detail\": \"Символы различимы при увеличении\",\n  \"reference\": \"Наследовать фактуру и объём, не копировать сюжет\",\n  \"output\": \"PNG с непрозрачным однотонным фоном\",\n  \"check\": \"Проверить силуэт, знаки, поля и равномерность фона\",\n  \"background\": \"#FFFFFF\",\n  \"foreground\": \"Нейтральные светло-серые и средне-серые знаки\",\n  \"avoid\": \"Цвет, свечение, чёрные плашки, фото, металл, точки вместо знаков\"\n}",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 24
+      },
+      {
+        "id": "2169:682",
+        "parent": "2169:673",
+        "text": "БЕЛАЯ ВЕРСИЯ\n\nФон #FFFFFF. Знаки серые, без плотных чёрных пятен.\n\nПРОВЕРКА\n\nПредмет узнаётся в макете. При увеличении видны символы, а не только точки.\n\nJSON задаёт визуальную спецификацию; точность результата проверяется после генерации.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "2169:690",
+        "parent": "2169:683",
+        "text": "ASCII — негативный промпт / форма",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:691",
+        "parent": "2169:683",
+        "text": "Не использовать:\n\n• Фотографию и обычный 3D-рендер.\n• Металл, стекло, пластик и глянцевые поверхности.\n• Сплошную поверхность с наложенным текстом.\n• Точки, растр и пыль вместо различимых символов.\n• Проволочную сетку, воксели и пиксельные кубики.\n• Хаотичный шум без узнаваемого силуэта.\n• Крупные надписи, слова, логотипы и водяные знаки.\n• Много разрозненных объектов и лишний декор.\n• Случайный обрез важных частей предмета.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 30
+      },
+      {
+        "id": "2169:692",
+        "parent": "2169:683",
+        "text": "ВМЕСТО ЭТОГО\n\nОдин узнаваемый объект целиком собран из символов.\n\nОбъём появляется за счёт плотности и яркости знаков.\n\nСюжет можно менять; конструкция графики остаётся общей.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "2169:700",
+        "parent": "2169:693",
+        "text": "ASCII — негативный промпт / тон",
+        "font": {
+          "family": "Fluxetype",
+          "style": "Regular"
+        },
+        "size": 64
+      },
+      {
+        "id": "2169:701",
+        "parent": "2169:693",
+        "text": "Не использовать:\n\n• Любой цвет, включая фирменный зелёный.\n• Неон, свечение и ореолы.\n• Градиент фона, виньетку, фактуру бумаги.\n• Падающую тень, пол или линию горизонта.\n• Белые сплошные пятна на чёрной версии.\n• Чёрные сплошные пятна на белой версии.\n• Контраст, спорящий с заголовком и данными.\n• Слишком бледный неразличимый силуэт.\n• Размытие и слипшиеся знаки после уменьшения.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 30
+      },
+      {
+        "id": "2169:702",
+        "parent": "2169:693",
+        "text": "ПРИЁМКА\n\nПроверить отдельно на 100% и в размере макета.\n\nСравнить с двумя исходными референсами.\n\nЕсли negative-поля нет, добавить ограничения в основной запрос.\n\nFigma AI для генерации не использовать.",
+        "font": {
+          "family": "Inter",
+          "style": "Light",
+          "variationSettings": {
+            "wght": 300,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      }
+    ]
+  },
+  "63:1175": {
+    "page": "Logo-system",
+    "frames": [
+      {
+        "id": "71:122",
+        "name": "MP / Logo / Stacked",
+        "type": "COMPONENT_SET"
+      },
+      {
+        "id": "71:179",
+        "name": "MP / Logo / Symbol",
+        "type": "COMPONENT_SET"
+      },
+      {
+        "id": "71:304",
+        "name": "MP / Logo / Inline",
+        "type": "COMPONENT_SET"
+      },
+      {
+        "id": "63:1820",
+        "name": "MP / Logo — правила и примеры",
+        "type": "FRAME"
+      },
+      {
+        "id": "63:1852",
+        "name": "MP / Logo — 12 вариантов / предпросмотр",
+        "type": "FRAME"
+      },
+      {
+        "id": "2016:322",
+        "name": "с",
+        "type": "SPEC_BLOCK"
+      }
+    ],
+    "texts": [
+      {
+        "id": "63:1821",
+        "parent": "63:1820",
+        "text": "Логотип / Media Platforma",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 42
+      },
+      {
+        "id": "63:1822",
+        "parent": "63:1820",
+        "text": "Три композиции × четыре цветовых решения. Все варианты — векторные компоненты, исходные логотипы сохранены.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 19
+      },
+      {
+        "id": "63:1824",
+        "parent": "63:1820",
+        "text": "01 / Stacked — знак + две строки",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 21
+      },
+      {
+        "id": "63:1825",
+        "parent": "63:1820",
+        "text": "Основной вариант: презентации, сайт, титульные экраны, коммерческие материалы.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 16
+      },
+      {
+        "id": "63:1826",
+        "parent": "63:1820",
+        "text": "Не разбирать на отдельные элементы. Масштабировать всю композицию целиком.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 15
+      },
+      {
+        "id": "63:1828",
+        "parent": "63:1820",
+        "text": "02 / Symbol — только знак",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 21
+      },
+      {
+        "id": "63:1829",
+        "parent": "63:1820",
+        "text": "Аватары, фавикон, компактная навигация, иконка приложения, водяной знак.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 16
+      },
+      {
+        "id": "63:1830",
+        "parent": "63:1820",
+        "text": "Применять там, где бренд уже обозначен или знак узнаваем в контексте.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 15
+      },
+      {
+        "id": "63:1832",
+        "parent": "63:1820",
+        "text": "03 / Inline — знак между словами",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 21
+      },
+      {
+        "id": "63:1833",
+        "parent": "63:1820",
+        "text": "Горизонтальные шапки, узкие баннеры, футеры и широкие плашки.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 16
+      },
+      {
+        "id": "63:1834",
+        "parent": "63:1820",
+        "text": "Не переносить слова на новые строки и не менять межэлементные интервалы.",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 15
+      },
+      {
+        "id": "63:1835",
+        "parent": "63:1820",
+        "text": "Цветовые сценарии",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 28
+      },
+      {
+        "id": "63:1837",
+        "parent": "63:1820",
+        "text": "Ink",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 23
+      },
+      {
+        "id": "63:1838",
+        "parent": "63:1820",
+        "text": "Светлый фон",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 17
+      },
+      {
+        "id": "63:1839",
+        "parent": "63:1820",
+        "text": "Чёрный текст / чёрный знак",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "63:1841",
+        "parent": "63:1820",
+        "text": "Accent",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 23
+      },
+      {
+        "id": "63:1842",
+        "parent": "63:1820",
+        "text": "Светлый фон",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 17
+      },
+      {
+        "id": "63:1843",
+        "parent": "63:1820",
+        "text": "Чёрный текст / лаймовый знак",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "63:1845",
+        "parent": "63:1820",
+        "text": "Inverse",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 23
+      },
+      {
+        "id": "63:1846",
+        "parent": "63:1820",
+        "text": "Тёмный фон",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 17
+      },
+      {
+        "id": "63:1847",
+        "parent": "63:1820",
+        "text": "Белый текст / белый знак",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      },
+      {
+        "id": "63:1849",
+        "parent": "63:1820",
+        "text": "Inverse Accent",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 23
+      },
+      {
+        "id": "63:1850",
+        "parent": "63:1820",
+        "text": "Тёмный фон",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 17
+      },
+      {
+        "id": "63:1851",
+        "parent": "63:1820",
+        "text": "Белый текст / лаймовый знак",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 14
+      }
+    ]
+  }
+}

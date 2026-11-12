@@ -1,0 +1,302 @@
+[
+  {
+    "asset_id": "mp-photo-001",
+    "usage_mode": "environment",
+    "label": "Женщина 24 · смартфон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-594",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-593",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-002",
+    "usage_mode": "environment",
+    "label": "Мужчина 38 · ноутбук",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-627",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-626",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-003",
+    "usage_mode": "environment",
+    "label": "Женщина 52 · планшет",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-660",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-659",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-004",
+    "usage_mode": "environment",
+    "label": "Мужчина 67 · смартфон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-693",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-692",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-005",
+    "usage_mode": "environment",
+    "label": "Женщина 31 · камера",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-726",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-725",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-006",
+    "usage_mode": "environment",
+    "label": "Мужчина 22 · геймпад",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-759",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-758",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-007",
+    "usage_mode": "environment",
+    "label": "Женщина 43 · наушники",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-792",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-791",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-008",
+    "usage_mode": "environment",
+    "label": "Мужчина 46 · планшет",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-825",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-824",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-009",
+    "usage_mode": "environment",
+    "label": "Женщина 60 · ноутбук",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-858",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-857",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-010",
+    "usage_mode": "environment",
+    "label": "Мужчина 29 · телефон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-891",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-890",
+    "transparent_background": false,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-011",
+    "usage_mode": "hero_cutout",
+    "label": "Мужчина 67 · смартфон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-925",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-923",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-012",
+    "usage_mode": "hero_cutout",
+    "label": "Женщина 31 · камера",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-940",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-938",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-013",
+    "usage_mode": "hero_cutout",
+    "label": "Мужчина 22 · геймпад",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-955",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-953",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-014",
+    "usage_mode": "hero_cutout",
+    "label": "Женщина 43 · наушники",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-970",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-968",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-015",
+    "usage_mode": "hero_cutout",
+    "label": "Мужчина 46 · планшет",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-985",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-983",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-016",
+    "usage_mode": "hero_cutout",
+    "label": "Женщина 60 · ноутбук",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1000",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-998",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-017",
+    "usage_mode": "hero_cutout",
+    "label": "Мужчина 29 · телефон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1015",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1013",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-018",
+    "usage_mode": "hero_cutout",
+    "label": "Женщина 24 · смартфон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1030",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1028",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-019",
+    "usage_mode": "hero_cutout",
+    "label": "Мужчина 38 · ноутбук",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1045",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1043",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-020",
+    "usage_mode": "hero_cutout",
+    "label": "Женщина 52 · планшет",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1060",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1058",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-021",
+    "usage_mode": "group_cutout",
+    "label": "Женщина 43 · наушники",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1078",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1073",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-022",
+    "usage_mode": "group_cutout",
+    "label": "Мужчина 46 · планшет",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1079",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1073",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-023",
+    "usage_mode": "group_cutout",
+    "label": "Женщина 60 · ноутбук",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1080",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1073",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-024",
+    "usage_mode": "group_cutout",
+    "label": "Мужчина 29 · телефон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1086",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1081",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-025",
+    "usage_mode": "group_cutout",
+    "label": "Женщина 24 · смартфон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1087",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1081",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-026",
+    "usage_mode": "group_cutout",
+    "label": "Мужчина 38 · закрытый ноутбук",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1088",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1081",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-027",
+    "usage_mode": "group_cutout",
+    "label": "Женщина 52 · планшет",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1094",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1089",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-028",
+    "usage_mode": "group_cutout",
+    "label": "Мужчина 67 · смартфон",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1095",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1089",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-029",
+    "usage_mode": "group_cutout",
+    "label": "Женщина 31 · камера",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1096",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1089",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  },
+  {
+    "asset_id": "mp-photo-030",
+    "usage_mode": "group_cutout",
+    "label": "Мужчина 22 · геймпад",
+    "asset_path": null,
+    "figma_asset_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1097",
+    "figma_composition_url": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2161-1089",
+    "transparent_background": true,
+    "status": "test_series_used_as_documentation_basis"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "brand": "Media Platforma",
+  "style": "ASCII",
+  "subject": "Мегафон — реклама",
+  "theme": "light",
+  "view": "Чуть сверху; раструб влево",
+  "aspect_ratio": "1:1",
+  "composition": "Целый предмет по центру; поля около 14%",
+  "placement": "Фоновый элемент презентации",
+  "reference_image": "Приложить экспорт референса из Figma",
+  "style_file": "ascii_light.json",
+  "negative_file": "ascii_negative.json",
+  "output": "PNG; непрозрачный однотонный фон",
+  "review": "05_SELF_CHECK.md"
+}

@@ -1,0 +1,866 @@
+{
+  "source": "Media-platforma.zip",
+  "source_files": [
+    {
+      "path": "00_BRANDCORE/AGENTS.md",
+      "bytes": 4080,
+      "sha256": "2b74e0992ae8107a10d3b3058c37d12895f20cfbc2ec06e08eb2e208e6177064"
+    },
+    {
+      "path": "00_BRANDCORE/CHANGELOG.md",
+      "bytes": 852,
+      "sha256": "058b042926ef689678ce2461793180d1483fccc618b6826764d1251e6fe0f976"
+    },
+    {
+      "path": "00_BRANDCORE/FONTS.zip",
+      "bytes": 978261,
+      "sha256": "9b05f218dc06c91b1976607f008a74ec9428bb860759d83cbd593201f751905e"
+    },
+    {
+      "path": "00_BRANDCORE/LINKS.md",
+      "bytes": 4004,
+      "sha256": "69283526b6dec5c539ad399a52b3e7f9ea771d2945ee93436c5c0e0f9ad05815"
+    },
+    {
+      "path": "00_BRANDCORE/MEDIA_PLATFORMA_BRAND_CORE_KNOWLEDGE_BASE.md",
+      "bytes": 119989,
+      "sha256": "f347602d17ab92cbebf5bff1c98312e5238356b52a0b37609ea9ee6100b671b5"
+    },
+    {
+      "path": "00_BRANDCORE/README.md",
+      "bytes": 3513,
+      "sha256": "58caedeacf944f1cf4010cc89739240da5ff9ed94a948142cdc13207f72b4e35"
+    },
+    {
+      "path": "00_BRANDCORE/docs/01_BRAND_CORE.md",
+      "bytes": 3938,
+      "sha256": "69e599650d76ea5cbcf131d582138d2c236aae28e1560c34f780f9694e2655fe"
+    },
+    {
+      "path": "00_BRANDCORE/docs/02_GRAPHICS_ROLES.md",
+      "bytes": 4906,
+      "sha256": "727582bf825c0dd9d3a871463d79b3fb73642d416defa780bfb74142fd6be56b"
+    },
+    {
+      "path": "00_BRANDCORE/docs/03_COLOR.md",
+      "bytes": 3621,
+      "sha256": "217a171814167bb457d1b600ab15d846069c7cd1977dd88284541d0aca885b83"
+    },
+    {
+      "path": "00_BRANDCORE/docs/04_TYPOGRAPHY.md",
+      "bytes": 2869,
+      "sha256": "034948dd11f04c1e2d15950a0564dee8245737f06411c909f8fee94e06c85751"
+    },
+    {
+      "path": "00_BRANDCORE/docs/05_LOGO.md",
+      "bytes": 4265,
+      "sha256": "dd6e9a939595c7982fc2887e240467c291c50c6e5e2377a21bcdc406989c70bf"
+    },
+    {
+      "path": "00_BRANDCORE/docs/06_METAL_3D.md",
+      "bytes": 4057,
+      "sha256": "604c0177e1a71e15ddc2ab72e8de2d35905ec4e2edb9cc31573a688499a920e1"
+    },
+    {
+      "path": "00_BRANDCORE/docs/07_PHOTO.md",
+      "bytes": 5674,
+      "sha256": "8bbb3daf5375445581edc5a966bd325aa9bac0b59de377908757157a038a88fd"
+    },
+    {
+      "path": "00_BRANDCORE/docs/08_ASCII.md",
+      "bytes": 3266,
+      "sha256": "fc774593a134bbf6ed1cb22840ccfb6b40565877cf9dfe924794835ae811470f"
+    },
+    {
+      "path": "00_BRANDCORE/docs/09_DIY.md",
+      "bytes": 3201,
+      "sha256": "d32cbe84fdb4363f697c1fa6b733f380a0bc6eba63d5cf0daf107cd8e5bfb7b9"
+    },
+    {
+      "path": "00_BRANDCORE/docs/10_COMPOSITION_AND_GENERATION.md",
+      "bytes": 6053,
+      "sha256": "2a92ab2573426fd9e395f5140920dd3005d4e0c9289491f99ce0a3be7d6adede"
+    },
+    {
+      "path": "00_BRANDCORE/docs/11_ART_DIRECTION.md",
+      "bytes": 5351,
+      "sha256": "68cf12145ca704c6cefb1365c7cc86025fc83883bf6738d65682a277d103c891"
+    },
+    {
+      "path": "00_BRANDCORE/docs/12_QA.md",
+      "bytes": 10240,
+      "sha256": "0bdd0fa144f14ec4d29bbc7062ca639b00e7bdca0f2fc22d309aaa7a217b9ee6"
+    },
+    {
+      "path": "00_BRANDCORE/docs/13_REPOSITORY_AND_UPDATES.md",
+      "bytes": 3451,
+      "sha256": "f983cdc292e17c868fd7c272ed566c8f7f7245a14f025be1cb81176a1f8ae7ff"
+    },
+    {
+      "path": "00_BRANDCORE/docs/14_SOURCE_AUDIT.md",
+      "bytes": 4540,
+      "sha256": "36be1ce53247a796c5cebcf744c0b4039673b2b84e45194c54e7b6de77099e45"
+    },
+    {
+      "path": "00_BRANDCORE/prompts/ascii_dark.source.v1.json",
+      "bytes": 1459,
+      "sha256": "480ee90b6e00fba77780d14a25ea91556f0751bc098d4116f5f1e65565c8dfc5"
+    },
+    {
+      "path": "00_BRANDCORE/prompts/ascii_light.source.v1.json",
+      "bytes": 1450,
+      "sha256": "44ef0ec30a9e8376f185439be5ff0ee91f5f5c6cd33669fd914b2e9873bcf475"
+    },
+    {
+      "path": "00_BRANDCORE/prompts/metal_3d.source.v2.json",
+      "bytes": 1088,
+      "sha256": "abece1c836b5450b18c54c52e1946397ac3555455545de5476a008c43cfbcd96"
+    },
+    {
+      "path": "00_BRANDCORE/prompts/negative_prompts.json",
+      "bytes": 4105,
+      "sha256": "356a3615e0172c89f3c19859901b650c1cc5b3a942f1aa8fe5ac4be98cec5d79"
+    },
+    {
+      "path": "00_BRANDCORE/prompts/photo.source.v1.json",
+      "bytes": 10243,
+      "sha256": "d5f4f2599bc7beb9dfb7364877747beca908c13ed09b810a16cb35f43f822749"
+    },
+    {
+      "path": "00_BRANDCORE/registry/ASSETS.md",
+      "bytes": 16673,
+      "sha256": "f37cc89bd5cd8ba616a261cf3c2dd64508a5697dc9352e9236a80ad08e0df02a"
+    },
+    {
+      "path": "00_BRANDCORE/registry/assets.json",
+      "bytes": 61242,
+      "sha256": "d0057097c9213bea504d8cc689c8e133f78e2548b11361ff3f140efc9ac85a77"
+    },
+    {
+      "path": "00_BRANDCORE/registry/graphic_roles.json",
+      "bytes": 2476,
+      "sha256": "23f3ebf55bb02d4c244438e362780b6a079bd0b89bf336b2304c659029b721e9"
+    },
+    {
+      "path": "00_BRANDCORE/sources/figma_text_snapshot.json",
+      "bytes": 103524,
+      "sha256": "6b4b04bff5f4f80ab916b97c4909154a125a90e7cd12f2b5a76037c0e2897423"
+    },
+    {
+      "path": "00_BRANDCORE/sources/source_index.json",
+      "bytes": 5411,
+      "sha256": "43f57fcd7d0acb9e05c2e0dc9c612fe9c020148b4d42317fac1426dc01bac9d8"
+    },
+    {
+      "path": "00_BRANDCORE/templates/BRIEF.md",
+      "bytes": 635,
+      "sha256": "4899bc64c884d2a85572166c8e650260c8e593af4e1c0e3e9febf167a168200e"
+    },
+    {
+      "path": "00_BRANDCORE/templates/REVIEW.md",
+      "bytes": 1081,
+      "sha256": "d9da7fb317c0b8e22c9685c929e42656f171a5e337076be5a48f9a6a58e19842"
+    },
+    {
+      "path": "00_BRANDCORE/templates/asset_metadata.json",
+      "bytes": 491,
+      "sha256": "53def4e6351ea3c942fe06c0751e847b7504315f20ca9359754ba7d890bbea22"
+    },
+    {
+      "path": "00_BRANDCORE/tokens/colors.json",
+      "bytes": 2157,
+      "sha256": "c807e12cccfcab52447d618bc24883d6f25e220832dd8ecb409d2de45b8f36cc"
+    },
+    {
+      "path": "00_BRANDCORE/tokens/typography.json",
+      "bytes": 772,
+      "sha256": "849ceccb03468a4c7566a82374edcfff3c0bd34c34b551aa50c7d8badcd72ba6"
+    },
+    {
+      "path": "01_3D-OBJECTS/AGENTS.md",
+      "bytes": 5263,
+      "sha256": "3022b7e992b8584ac0d80f89e075f520f9c1500df1b123ef62c1bd7786f34633"
+    },
+    {
+      "path": "01_3D-OBJECTS/CATALOG.md",
+      "bytes": 1957,
+      "sha256": "4a75921ad04a8df362272a783ab3c6a54277916b940c2031515ada6a24ea193c"
+    },
+    {
+      "path": "01_3D-OBJECTS/CHANGELOG.md",
+      "bytes": 1593,
+      "sha256": "c8d27b45a338760fc21a9008e0c4315662c871418e887f1a3afdf85820d939e5"
+    },
+    {
+      "path": "01_3D-OBJECTS/README.md",
+      "bytes": 4854,
+      "sha256": "3f144389d71aa9bac74fd21dbf13511b9fbfd146d348b8e030247b753b883fa7"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/01-bars.png",
+      "bytes": 1340798,
+      "sha256": "2b02af7604c997d71b61f51a57dd12652ed700bb22df149f8acfd0d4dae78c38"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/02-pie-chart.png",
+      "bytes": 1744128,
+      "sha256": "626d35d75dcbbf30eadbffd9cfdb0d0d39a8da4f583f950bcc25972f708a165b"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/03-trend.png",
+      "bytes": 1474335,
+      "sha256": "7fb12d1b6c2c57eac983859608712ca6138f4ad22fd4929b7aab52cd32995728"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/04-target.png",
+      "bytes": 1865752,
+      "sha256": "e4eec6f8ccf27f215344b8622c6aa6d7d6fe21b16300d14063746a6730c311f9"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/05-filter.png",
+      "bytes": 1665296,
+      "sha256": "da4e72abfed5aa4e03bc4ae946c97a0c0600805cb05bbb6e19a4634d6d684e0b"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/06-database.png",
+      "bytes": 1570154,
+      "sha256": "308b0f3679774e85b79f6003d514e61ac72572cc623d99b410611db4466dae47"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/07-cursor.png",
+      "bytes": 1163589,
+      "sha256": "8b74625d0fca02d286f06d87dc109e98d0c9731643fca9c80f40bf47372c5b6c"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/08-message.png",
+      "bytes": 1864356,
+      "sha256": "9c40fa900fa30b494ad216a32213b2b32a98a58a284b67264c5ac8438836dc6d"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/09-microphone.png",
+      "bytes": 1721526,
+      "sha256": "3eec46c2c0b99a835a6b016e1390240f4036a54d3e92919627ca28d7c15f5597"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/10-camera.png",
+      "bytes": 1914771,
+      "sha256": "6e1f37ff4e4feb8a8e9354bdf4a48ce1f18b5e0288b5d6844a0d4b1adc73d69c"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/11-headphones.png",
+      "bytes": 1456513,
+      "sha256": "53d03e51f7aa31968b01936853c1400f7528ba01c3e7d74af90810645462fa22"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/12-video.png",
+      "bytes": 1896585,
+      "sha256": "2a812a5a28df76480a1e004e7dbd2981ddbb294b54247a476d060a16c12462df"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/13-wallet.png",
+      "bytes": 2016446,
+      "sha256": "cea0737e7b12184109da9e51271f54145e9880635bfb6f95327162021b267211"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/14-card.png",
+      "bytes": 1800579,
+      "sha256": "39f212e5ffa14e41a3e43298803ebde73e4a53e03a19d6f8feda6fc21fc67722"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/15-coins.png",
+      "bytes": 2107461,
+      "sha256": "49e698167624af1a17f1c58d4550f861c36d48a214aea2ddf6027b3730d80577"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/16-receipt.png",
+      "bytes": 1394704,
+      "sha256": "1fdabac6a3843bdb233d69d000fda1338208505673e807ada983fe771398f25e"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/17-bag.png",
+      "bytes": 1671198,
+      "sha256": "28185d6b242b1864a07fca13ecf268bfdfe8a7efa235f1f30cef5874e6030ee8"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/18-parcel.png",
+      "bytes": 2048042,
+      "sha256": "c04cdb2b4312fb9c6fe7107ee2ffed65caa5716d610ba1bad159e7dd4dabd2bd"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/19-shield.png",
+      "bytes": 1346195,
+      "sha256": "0cd8900296d458382ddee114027ccfc095b473f0424a58296015ef9d48e24d37"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/20-lock.png",
+      "bytes": 1534186,
+      "sha256": "2aee3e72c3877c80330e1d3a8516f14fff3e47814a4a29b96bcba8644635f05c"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/21-key.png",
+      "bytes": 1744000,
+      "sha256": "93cbddc7355111c20c884face9fc6568c17205714eca595cb041dcae6df2c55d"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/22-check.png",
+      "bytes": 1594838,
+      "sha256": "05ddabfb9bafe674103c34271af3cd7b175ebb6f320c4af6ffebe10ee7715efd"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/23-magnifier.png",
+      "bytes": 1635787,
+      "sha256": "2e278bd1fc75d172c9bbdce3e197e749068abcc3c2c29858f6df34d75b8dd760"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/24-fingerprint.png",
+      "bytes": 2091229,
+      "sha256": "e7f7a8cb0500f013095e9d57989a96a95dd8d7416821b94e067d767232fb1d80"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/25-gear.png",
+      "bytes": 1580023,
+      "sha256": "54c067eca71af7bbd2fa19739490c6e14ab3f44785c27b38042776bd13fbd219"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/26-sliders.png",
+      "bytes": 1942822,
+      "sha256": "78cd8297afa2809d15097994e5fe41729f959a0a35caef3e9fec0f61bc771ab3"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/27-calendar.png",
+      "bytes": 2232038,
+      "sha256": "05f267f49093a2ddd4ee5ac623964e517dc5ba1cba2eb09ebf11ef07f42697bb"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/28-stopwatch.png",
+      "bytes": 1369121,
+      "sha256": "15ea666012c1929e13f64dfe6c3ea0317fdbd69963b09ce092c1ebeca49baa53"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/29-layers.png",
+      "bytes": 1417716,
+      "sha256": "8ac87bf6e3b90fca1db2120cd1ed5f9b64c6354d7db847c02b2d70791b59edd9"
+    },
+    {
+      "path": "01_3D-OBJECTS/assets/30-cone.png",
+      "bytes": 1704478,
+      "sha256": "3de1135661653eede277da8b48745d709e6bfe174f6a0efac1e8ba79604215a6"
+    },
+    {
+      "path": "01_3D-OBJECTS/catalog.json",
+      "bytes": 10614,
+      "sha256": "0db24e3c78c417ef432b26123ae0f8d1e89d338be190b38deeb0adba9edebcea"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/FAQ.md",
+      "bytes": 7399,
+      "sha256": "a1f81e91c33e66b7999a0dab3a79cb0b3d2f0d8d16ad4e5962c36639429301ee"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/GENERATION.md",
+      "bytes": 5661,
+      "sha256": "bbb1aabcc4197a9111567a89caefc1feddb7d14cea8cdf11a813ed9bb4f83a8c"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/MAINTENANCE.md",
+      "bytes": 4481,
+      "sha256": "aaf72e5bde355eab166d8f88fbc54bdbf1dea52a3e9dfa5055cd37db7fa937c9"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/PROMPT_REFERENCE.md",
+      "bytes": 4070,
+      "sha256": "15dd0bd3a7a4681ccbc59136b585c5dd1e3b4e9338c47803a8b1399a06a0b990"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/QUALITY.md",
+      "bytes": 4899,
+      "sha256": "8243f61d522fd5cc59d36bd0f22d190932bf8992efad1277a2620e16e04d4415"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/SOURCES.md",
+      "bytes": 3734,
+      "sha256": "12e462d036eca1edf0809d20a3126f805f3f882cfc4072403b771a73f8f2ff4d"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/STYLE.md",
+      "bytes": 5301,
+      "sha256": "05d006c9971ff672b2fa3248f61d53adb9ce3d7adaa8a99eae16d92d7cadbab9"
+    },
+    {
+      "path": "01_3D-OBJECTS/docs/USAGE.md",
+      "bytes": 6911,
+      "sha256": "8e0261f771461fe566a0b2c93bbb1ce4449a12e11c9e09355c42bd204c6a1e01"
+    },
+    {
+      "path": "01_3D-OBJECTS/examples/brief.json",
+      "bytes": 722,
+      "sha256": "8b06f2c9acbfb6c2cacd5a429b088d6c5810a5c78066d7323b20f8264f7aea1e"
+    },
+    {
+      "path": "01_3D-OBJECTS/examples/review.md",
+      "bytes": 1801,
+      "sha256": "6dad98df80742087608fb101cda2cbcd27c356eef593e0cc68a8bde92738dd3a"
+    },
+    {
+      "path": "01_3D-OBJECTS/metal3d-negative.json",
+      "bytes": 1147,
+      "sha256": "0412972ec687ddad9ba60ce7d7d8fc4ca2f2cce96310633e4e33379f66c11093"
+    },
+    {
+      "path": "01_3D-OBJECTS/metal3d-prompt.json",
+      "bytes": 1493,
+      "sha256": "e2bc58489ad9d045132a4dddd2ad8ce45de6c88da3c39dea9f9a6810f3989bdb"
+    },
+    {
+      "path": "01_3D-OBJECTS/references/original-cone.png",
+      "bytes": 1766110,
+      "sha256": "442c1a6ace763cd9b96f43cf0af5a2f5439ddd16df892d00a970fa9957887cfc"
+    },
+    {
+      "path": "01_3D-OBJECTS/usage-rules.json",
+      "bytes": 1074,
+      "sha256": "f9d0f2ebfdb2f458d33a63f24716c2e31bc743abbc0baf2bc7e7e92c3e7ae5e0"
+    },
+    {
+      "path": "02_PHOTOSTYLE/01_PHOTO_STYLE.md",
+      "bytes": 4410,
+      "sha256": "1095159249efac9d9c21d1598cf60a261ab48ce0c74c4a399cd5da658971d6dc"
+    },
+    {
+      "path": "02_PHOTOSTYLE/02_GENERATION_WORKFLOW.md",
+      "bytes": 3662,
+      "sha256": "36eb63e0038234108efaadbfc1c603ce12c216a7fb4ff7f11f6e4c801e58c8e4"
+    },
+    {
+      "path": "02_PHOTOSTYLE/03_USAGE_AND_COMPOSITION.md",
+      "bytes": 4021,
+      "sha256": "2eedd64cd552a24f08255d33f938bfe10cba742b929b30f5a649e2a8f52bcedc"
+    },
+    {
+      "path": "02_PHOTOSTYLE/04_PROMPT_GUIDE.md",
+      "bytes": 2424,
+      "sha256": "ebc4ad646d9114ab61a9ce1da0e564058a5bbc188287abc1f1013c77fd00942f"
+    },
+    {
+      "path": "02_PHOTOSTYLE/05_QA_CHECKLIST.md",
+      "bytes": 3074,
+      "sha256": "1fdb38c7eb44059f8d91ac86fb8d3d4207d923260d1e468085cc09692e374328"
+    },
+    {
+      "path": "02_PHOTOSTYLE/06_Q_AND_A.md",
+      "bytes": 6277,
+      "sha256": "2e5ce2a20a1d53492ca1020829c84369ee28475d6a2502cae75ab516009c9227"
+    },
+    {
+      "path": "02_PHOTOSTYLE/07_ASSET_LIBRARY.md",
+      "bytes": 3419,
+      "sha256": "6749c648552325137ca3ae47b879b91c7b6f8eec8253d6fbd7c94e6aed45d721"
+    },
+    {
+      "path": "02_PHOTOSTYLE/AGENTS.md",
+      "bytes": 3530,
+      "sha256": "a08f7c8706fa509f38046404c99373821ff4404c7637e3ad4d7b51727c464c02"
+    },
+    {
+      "path": "02_PHOTOSTYLE/ALL_DOCUMENTATION.md",
+      "bytes": 36780,
+      "sha256": "47c07ac5fc6cfe3f60cc9c7b3d35155ee260712dd2905224ee9b2dd6c35e5289"
+    },
+    {
+      "path": "02_PHOTOSTYLE/CHANGELOG.md",
+      "bytes": 596,
+      "sha256": "07347396eb7d5cc13e6aed0e8e52adf7efe7027f289e40110bdee8ee89fc962b"
+    },
+    {
+      "path": "02_PHOTOSTYLE/LINKS.md",
+      "bytes": 1674,
+      "sha256": "44cb33d3caca792e09f8a4b49e1cb419515034a1dc5c8622e75d7303c207c28d"
+    },
+    {
+      "path": "02_PHOTOSTYLE/README.md",
+      "bytes": 3623,
+      "sha256": "8220d3b1598a979ffb5bf7825d3cf3a5da8967aad3f27bfbfbb9dbd5907272be"
+    },
+    {
+      "path": "02_PHOTOSTYLE/examples/01_environment.json",
+      "bytes": 11925,
+      "sha256": "7c0ffa4999acb7d3a32bb6994b03c71b136b76e5f969403c208ed22423dad2bf"
+    },
+    {
+      "path": "02_PHOTOSTYLE/examples/02_hero_cutout.json",
+      "bytes": 11826,
+      "sha256": "b8d6fbec5a11b4b63bf05bb338ccaeaf4c2a24f270247b79d0a746ec78afcd83"
+    },
+    {
+      "path": "02_PHOTOSTYLE/examples/03_group_cutout.json",
+      "bytes": 11874,
+      "sha256": "b5664206def1d7ea56b546194add56564b57c42e0ec779216e276ce4845c2a7f"
+    },
+    {
+      "path": "02_PHOTOSTYLE/examples/asset_catalog.json",
+      "bytes": 14121,
+      "sha256": "566bca309342c78f074fd655aa8395b309b7639a538441573b017258a6c1ebf8"
+    },
+    {
+      "path": "02_PHOTOSTYLE/examples/generation_log.json",
+      "bytes": 64899,
+      "sha256": "a8f6649d349b6b47c95f210e0f920adbebe0ae0d5fe50757f4e751a7e45b29f0"
+    },
+    {
+      "path": "02_PHOTOSTYLE/prompts/negative_prompt.json",
+      "bytes": 1882,
+      "sha256": "ce36e1a6120a899ab2d4584da005d0db13e1e2979845dc1fda329df75b6d07b5"
+    },
+    {
+      "path": "02_PHOTOSTYLE/prompts/photo_style.json",
+      "bytes": 12648,
+      "sha256": "86574323c7c9f096fec8512337167470bf8a78d10d6002ee6cbac28aed9345da"
+    },
+    {
+      "path": "02_PHOTOSTYLE/sources/figma_photo_prompt_v1.json",
+      "bytes": 10243,
+      "sha256": "d5f4f2599bc7beb9dfb7364877747beca908c13ed09b810a16cb35f43f822749"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/01_STYLE.md",
+      "bytes": 4106,
+      "sha256": "519ca5f0b88eb540eab27c3600d7a07bf66b30044a803e545ae62cea316b4d21"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/02_GENERATION.md",
+      "bytes": 5556,
+      "sha256": "bae9be95bc4e72e8f8dbc6755006df879a199bb7e574e803ea3a8b17560da435"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/03_USAGE.md",
+      "bytes": 3945,
+      "sha256": "30ed4981dc560534ce96fa80bd85d6ba91dc6cbecdbdc660a711ccfd1c8648f6"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/04_QA.md",
+      "bytes": 8002,
+      "sha256": "1cf2d09e4d861fb42809130d7c0bacbb4218738eb231aef79554f6a387dc2356"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/05_SELF_CHECK.md",
+      "bytes": 4689,
+      "sha256": "50aa99b2f32d52243c3b9ee4d587b6f902447b5503ae2725291a3c93fcb894d8"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/06_AI_INSTRUCTIONS.md",
+      "bytes": 2811,
+      "sha256": "f6c3272bd8df2866d09346393f74c3c4f315faa09629d3aede2c5962bb4ac63d"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/07_REFERENCE_INDEX.md",
+      "bytes": 3868,
+      "sha256": "178ea6c74414dd712be4a6e88adfdf3bbfd0b9348b42ec1e774410afc79ac87a"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/LINKS.md",
+      "bytes": 1230,
+      "sha256": "e04f5a31e5c6475e5a1b6a963970e772d0dd1fa9f28c9fa72bbabb64f52f6a13"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/MEDIA_PLATFORMA_ASCII_KNOWLEDGE_BASE.md",
+      "bytes": 43625,
+      "sha256": "2aa127b91323e796b5383c3045e2a2c20beaa67f1e7289059fb69ffcb972af5a"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/README.md",
+      "bytes": 3788,
+      "sha256": "56d98e8aafd79f58ee92c537ace39dc3f4be90518c398778fd31fe58ac01392c"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/prompts/ascii_dark.json",
+      "bytes": 1459,
+      "sha256": "480ee90b6e00fba77780d14a25ea91556f0751bc098d4116f5f1e65565c8dfc5"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/prompts/ascii_light.json",
+      "bytes": 1450,
+      "sha256": "44ef0ec30a9e8376f185439be5ff0ee91f5f5c6cd33669fd914b2e9873bcf475"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/prompts/ascii_negative.json",
+      "bytes": 1574,
+      "sha256": "45be257a756bf4e0253dbae1954e1d2585919efcc7b3be0adda75720dac75cd1"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/prompts/generation_examples.json",
+      "bytes": 36404,
+      "sha256": "c4109f661683fea319d4e11b297bf8c89feb25c0ed309c0a5e790379220d9075"
+    },
+    {
+      "path": "03_ASCII-GRAPHIC/prompts/request_template.json",
+      "bytes": 641,
+      "sha256": "3bd3fee30731cb8d75b0d88c56869b453d183e8af92b331d6c60aca9c7989b84"
+    },
+    {
+      "path": "04_PRESENTATION/AGENTS.md",
+      "bytes": 4417,
+      "sha256": "0b3a7b55dba54a8b7517deceefaab7b941a2f8b629a8e66a0242e3a115645713"
+    },
+    {
+      "path": "04_PRESENTATION/CHANGELOG.md",
+      "bytes": 1145,
+      "sha256": "bc445d41e7bf2ffc2ec76372c78bd7551c43be63a87fb44ce1946d844ccec688"
+    },
+    {
+      "path": "04_PRESENTATION/LINKS.md",
+      "bytes": 1164,
+      "sha256": "b634bb20b58cd6b01cd2a49ab9af9396e0a4a821b8c26217b4b9b32d0ca8841f"
+    },
+    {
+      "path": "04_PRESENTATION/PRESENTATIONS_KNOWLEDGE_BASE.md",
+      "bytes": 125751,
+      "sha256": "162469069ebb3c3f101c584ac9cefc5f0ba86924c47670e28d3c6bd930407190"
+    },
+    {
+      "path": "04_PRESENTATION/README.md",
+      "bytes": 3626,
+      "sha256": "168bf979c14fec0f11e90ed862850cc286b07ecf345b04411318954410df563a"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/AGENTS.md",
+      "bytes": 4080,
+      "sha256": "2b74e0992ae8107a10d3b3058c37d12895f20cfbc2ec06e08eb2e208e6177064"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/CHANGELOG.md",
+      "bytes": 852,
+      "sha256": "058b042926ef689678ce2461793180d1483fccc618b6826764d1251e6fe0f976"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/DEPENDENCY.md",
+      "bytes": 697,
+      "sha256": "40a7e65ccb4ab91fe58fd53faa46a9c6d3d17c7287099ce4151a5eed83c0649b"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/LINKS.md",
+      "bytes": 4004,
+      "sha256": "69283526b6dec5c539ad399a52b3e7f9ea771d2945ee93436c5c0e0f9ad05815"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/MEDIA_PLATFORMA_BRAND_CORE_KNOWLEDGE_BASE.md",
+      "bytes": 119989,
+      "sha256": "f347602d17ab92cbebf5bff1c98312e5238356b52a0b37609ea9ee6100b671b5"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/README.md",
+      "bytes": 3513,
+      "sha256": "58caedeacf944f1cf4010cc89739240da5ff9ed94a948142cdc13207f72b4e35"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/01_BRAND_CORE.md",
+      "bytes": 3938,
+      "sha256": "69e599650d76ea5cbcf131d582138d2c236aae28e1560c34f780f9694e2655fe"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/02_GRAPHICS_ROLES.md",
+      "bytes": 4906,
+      "sha256": "727582bf825c0dd9d3a871463d79b3fb73642d416defa780bfb74142fd6be56b"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/03_COLOR.md",
+      "bytes": 3621,
+      "sha256": "217a171814167bb457d1b600ab15d846069c7cd1977dd88284541d0aca885b83"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/04_TYPOGRAPHY.md",
+      "bytes": 2869,
+      "sha256": "034948dd11f04c1e2d15950a0564dee8245737f06411c909f8fee94e06c85751"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/05_LOGO.md",
+      "bytes": 4265,
+      "sha256": "dd6e9a939595c7982fc2887e240467c291c50c6e5e2377a21bcdc406989c70bf"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/06_METAL_3D.md",
+      "bytes": 4057,
+      "sha256": "604c0177e1a71e15ddc2ab72e8de2d35905ec4e2edb9cc31573a688499a920e1"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/07_PHOTO.md",
+      "bytes": 5674,
+      "sha256": "8bbb3daf5375445581edc5a966bd325aa9bac0b59de377908757157a038a88fd"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/08_ASCII.md",
+      "bytes": 3266,
+      "sha256": "fc774593a134bbf6ed1cb22840ccfb6b40565877cf9dfe924794835ae811470f"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/09_DIY.md",
+      "bytes": 3201,
+      "sha256": "d32cbe84fdb4363f697c1fa6b733f380a0bc6eba63d5cf0daf107cd8e5bfb7b9"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/10_COMPOSITION_AND_GENERATION.md",
+      "bytes": 6053,
+      "sha256": "2a92ab2573426fd9e395f5140920dd3005d4e0c9289491f99ce0a3be7d6adede"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/11_ART_DIRECTION.md",
+      "bytes": 5351,
+      "sha256": "68cf12145ca704c6cefb1365c7cc86025fc83883bf6738d65682a277d103c891"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/12_QA.md",
+      "bytes": 10240,
+      "sha256": "0bdd0fa144f14ec4d29bbc7062ca639b00e7bdca0f2fc22d309aaa7a217b9ee6"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/13_REPOSITORY_AND_UPDATES.md",
+      "bytes": 3451,
+      "sha256": "f983cdc292e17c868fd7c272ed566c8f7f7245a14f025be1cb81176a1f8ae7ff"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/docs/14_SOURCE_AUDIT.md",
+      "bytes": 4540,
+      "sha256": "36be1ce53247a796c5cebcf744c0b4039673b2b84e45194c54e7b6de77099e45"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/prompts/ascii_dark.source.v1.json",
+      "bytes": 1459,
+      "sha256": "480ee90b6e00fba77780d14a25ea91556f0751bc098d4116f5f1e65565c8dfc5"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/prompts/ascii_light.source.v1.json",
+      "bytes": 1450,
+      "sha256": "44ef0ec30a9e8376f185439be5ff0ee91f5f5c6cd33669fd914b2e9873bcf475"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/prompts/metal_3d.source.v2.json",
+      "bytes": 1088,
+      "sha256": "abece1c836b5450b18c54c52e1946397ac3555455545de5476a008c43cfbcd96"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/prompts/negative_prompts.json",
+      "bytes": 4105,
+      "sha256": "356a3615e0172c89f3c19859901b650c1cc5b3a942f1aa8fe5ac4be98cec5d79"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/prompts/photo.source.v1.json",
+      "bytes": 10243,
+      "sha256": "d5f4f2599bc7beb9dfb7364877747beca908c13ed09b810a16cb35f43f822749"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/registry/ASSETS.md",
+      "bytes": 16673,
+      "sha256": "f37cc89bd5cd8ba616a261cf3c2dd64508a5697dc9352e9236a80ad08e0df02a"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/registry/assets.json",
+      "bytes": 61242,
+      "sha256": "d0057097c9213bea504d8cc689c8e133f78e2548b11361ff3f140efc9ac85a77"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/registry/graphic_roles.json",
+      "bytes": 2476,
+      "sha256": "23f3ebf55bb02d4c244438e362780b6a079bd0b89bf336b2304c659029b721e9"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/sources/figma_text_snapshot.json",
+      "bytes": 103524,
+      "sha256": "6b4b04bff5f4f80ab916b97c4909154a125a90e7cd12f2b5a76037c0e2897423"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/sources/source_index.json",
+      "bytes": 5411,
+      "sha256": "43f57fcd7d0acb9e05c2e0dc9c612fe9c020148b4d42317fac1426dc01bac9d8"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/templates/BRIEF.md",
+      "bytes": 635,
+      "sha256": "4899bc64c884d2a85572166c8e650260c8e593af4e1c0e3e9febf167a168200e"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/templates/REVIEW.md",
+      "bytes": 1081,
+      "sha256": "d9da7fb317c0b8e22c9685c929e42656f171a5e337076be5a48f9a6a58e19842"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/templates/asset_metadata.json",
+      "bytes": 491,
+      "sha256": "53def4e6351ea3c942fe06c0751e847b7504315f20ca9359754ba7d890bbea22"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/tokens/colors.json",
+      "bytes": 2157,
+      "sha256": "c807e12cccfcab52447d618bc24883d6f25e220832dd8ecb409d2de45b8f36cc"
+    },
+    {
+      "path": "04_PRESENTATION/brand-core/tokens/typography.json",
+      "bytes": 772,
+      "sha256": "849ceccb03468a4c7566a82374edcfff3c0bd34c34b551aa50c7d8badcd72ba6"
+    },
+    {
+      "path": "04_PRESENTATION/docs/01_CONTENT_AND_DENSITY.md",
+      "bytes": 8875,
+      "sha256": "a12660d21ce7b4b58d9d51e9fc27d741167cf180303c188fbac621292673a065"
+    },
+    {
+      "path": "04_PRESENTATION/docs/02_LAYOUTS.md",
+      "bytes": 9547,
+      "sha256": "36b9beb27c8bc7a247e1dd64d46c03ba0bdf81054d9036ef3f85910be75122c3"
+    },
+    {
+      "path": "04_PRESENTATION/docs/03_CHARTS.md",
+      "bytes": 6467,
+      "sha256": "11e26ab34ebc721e8998ae05c31f855132974fbf307eef7074c608d8cf5eb0d3"
+    },
+    {
+      "path": "04_PRESENTATION/docs/04_ASSETS.md",
+      "bytes": 5942,
+      "sha256": "a5d1d9b9eae48bf5f34087d82791ecbeb81db120bb5fdabdbce7e4eaf245ff2b"
+    },
+    {
+      "path": "04_PRESENTATION/docs/05_REVIEW.md",
+      "bytes": 5265,
+      "sha256": "061f5fab9fffe64a3d36c8f3525ac235892605ddf0c6d0b93465b2ce612fdcac"
+    },
+    {
+      "path": "04_PRESENTATION/docs/06_QA.md",
+      "bytes": 9360,
+      "sha256": "659331f05e1dc13f5598fdfce71d9eb78171f38aaabdeeea0e25a725a13fe0fe"
+    },
+    {
+      "path": "04_PRESENTATION/docs/07_REFERENCE_AUDIT.md",
+      "bytes": 10778,
+      "sha256": "3e9ac5f3789f6cc8b934e5a9215437dd66af5e750dabf5fd4b0f4cc3616894df"
+    },
+    {
+      "path": "04_PRESENTATION/rules/presentation_policy.json",
+      "bytes": 2349,
+      "sha256": "6477bba8881a521a15020575211e3f53cdbd99142f5170bd14be2a50192259b0"
+    },
+    {
+      "path": "04_PRESENTATION/rules/references.json",
+      "bytes": 15485,
+      "sha256": "e4dda8755b9298815bb698d8a2f1b896a09371dcd287b67d89b53ec608eae9b7"
+    },
+    {
+      "path": "04_PRESENTATION/templates/BRIEF.md",
+      "bytes": 1492,
+      "sha256": "a6fd2c5318ecd5bad3e7761329b610b646a4fec02630adc6ba95c0e158b4080f"
+    },
+    {
+      "path": "04_PRESENTATION/templates/asset_record.json",
+      "bytes": 405,
+      "sha256": "1221435b0b85ca82686d89b755f72e95e2b57fc2f16d09910afe297c78aa641e"
+    },
+    {
+      "path": "04_PRESENTATION/templates/review.json",
+      "bytes": 705,
+      "sha256": "4e3861df05f47293921dd6aa31ddab06a46d5a959d22ddf28982347fbc17253d"
+    },
+    {
+      "path": "04_PRESENTATION/templates/slide_plan.json",
+      "bytes": 1388,
+      "sha256": "74df5399d8d09161a70b91c77229cb19316ad1d1823b3a0eda8cc6cff5178dde"
+    }
+  ],
+  "excluded": "macOS metadata only"
+}

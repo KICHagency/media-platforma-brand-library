@@ -1,0 +1,31 @@
+{
+  "source_id": "TYPE",
+  "reference_canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "roles": {
+    "display": {
+      "family": "Fluxetype",
+      "style": "Regular",
+      "size_px": 110,
+      "line_height_percent": 110,
+      "letter_spacing_percent": -2
+    },
+    "heading": {
+      "family": "Inter",
+      "style": "Semi Bold",
+      "size_px": 32,
+      "line_height_percent": 110,
+      "letter_spacing_percent": -2
+    },
+    "body": {
+      "family": "Inter",
+      "style": "Light",
+      "size_px": 24,
+      "line_height_percent": 120,
+      "letter_spacing_percent": -2
+    }
+  },
+  "adaptation": "Reference slide values, not mandatory sizes for every viewport. Preserve hierarchy and check actual reading size. No arbitrary font substitution."
+}

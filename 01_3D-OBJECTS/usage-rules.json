@@ -1,0 +1,34 @@
+{
+  "version": "1.1",
+  "scope": "layout_composition_only",
+  "source": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67?node-id=2143-850",
+  "source_asset": {
+    "keep_complete": true,
+    "transparent_png": true,
+    "preserve_aspect_ratio": true
+  },
+  "modes": {
+    "whole_object": {
+      "allowed": true
+    },
+    "crop_by_format": {
+      "allowed": true,
+      "method": "Non-destructive clipping by layout frame or mask",
+      "condition": "Keep object recognizable and meaningful details visible"
+    },
+    "overlap_text": {
+      "allowed": true,
+      "extent": "Small and local; no fixed numeric threshold",
+      "condition": "Every word remains immediately readable at final size",
+      "avoid": "Obscuring essential letter forms, figures, dates or conditions",
+      "fallback": "Move or resize object, reflow text or remove overlap"
+    }
+  },
+  "combine_crop_and_overlap": true,
+  "qa": [
+    "Check actual display size",
+    "Check every adaptation",
+    "Preserve complete source PNG",
+    "Keep typography separate from generated asset"
+  ]
+}
