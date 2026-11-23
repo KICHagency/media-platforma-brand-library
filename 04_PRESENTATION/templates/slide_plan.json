@@ -52,6 +52,15 @@
         },
         "support_icons": [],
         "screenshot_radius_px": null
+      },
+      "chart_direction": {
+        "viewer_question": null,
+        "source_and_calculation": null,
+        "chart_form": null,
+        "reference_url": null,
+        "visual_treatment_and_reason": null,
+        "primary_emphasis": null,
+        "scale_and_missing_values": null
       }
     }
   ],

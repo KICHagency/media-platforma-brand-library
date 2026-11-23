@@ -173,5 +173,13 @@
       "AD14",
       "AD15"
     ]
+  },
+  "chart_art_direction": {
+    "guide": "docs/03_CHARTS.md",
+    "stage": "before_layout",
+    "scope": "analytical_slides",
+    "plan_field": "chart_direction",
+    "review": "docs/05_REVIEW.md",
+    "approved_examples": "https://www.figma.com/design/tmqVQnutHWMAoEWBCmvm67/01.-Brand-Core?node-id=2187-553"
   }
 }
